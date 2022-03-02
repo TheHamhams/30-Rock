@@ -3,21 +3,24 @@ import requests
 
 import re
 import json
+import csv
 
-episode = '01x01'
+episode = '01x02'
 
-html_text = requests.get('https://transcripts.foreverdreaming.org/viewtopic.php?f=1083&t=46639').text
+html_text = requests.get('https://transcripts.foreverdreaming.org/viewtopic.php?f=1083&t=46640').text
 soup = BeautifulSoup(html_text, 'lxml')
 
-chunks = str(soup.find_all('div', attrs={'class': 'postbody'}))
+chunks = soup.find('div', attrs={'class': 'postbody'})
 
-lines = re.sub('</*p>', '', chunks)
+lines = str(chunks.find_all('p'))
+
+lines = re.sub('</*p>', '', lines)
 lines = re.sub('<br/>', '', lines)
-lines = re.sub('</*div>', '', lines)
 
-#print(lines)
+
+print(lines)
 #for chunk in chunks:
-##    
+#    
 #    dirty_lines = chunk.find('p')
 #    clean = []
 #    for x in dirty_lines:
@@ -28,9 +31,19 @@ lines = re.sub('</*div>', '', lines)
 #        temp = temp.strip()
 #        clean.append(re.sub('<.+>', '', temp))
 #    clean = ' '.join(clean)
-#    lines.append(clean)
-    
+#   lines.append(clean)
+#    
 #print(lines)   
     
 with open(f'{episode}.json', 'w') as data:
     json.dump(lines, data, ensure_ascii=False, indent=4)
+
+
+#with open("output.csv", 'w', newline= '') as output:
+##    wr = csv.writer(output, delimiter='/')
+#    for element in lines:
+#        wr.writerow([str(element)])
+#    output.close()
+#with open(f'{episode}.csv', 'w', newline="") as file:
+#    mywriter = csv.writer(file, delimiter='/')
+#    mywriter.writerows([lines])
