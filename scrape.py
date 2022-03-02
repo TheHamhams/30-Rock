@@ -5,9 +5,9 @@ import re
 import json
 import csv
 
-episode = '01x02'
+episode = '01x03'
 
-html_text = requests.get('https://transcripts.foreverdreaming.org/viewtopic.php?f=1083&t=46640').text
+html_text = requests.get('https://transcripts.foreverdreaming.org/viewtopic.php?f=1083&t=46641').text
 soup = BeautifulSoup(html_text, 'lxml')
 
 chunks = soup.find('div', attrs={'class': 'postbody'})
