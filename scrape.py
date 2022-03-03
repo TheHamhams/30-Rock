@@ -5,45 +5,41 @@ import re
 import json
 import csv
 
-episode = '01x04'
+file_name = '01x06'
+season = 1
+episode = 6
+title = 'Jack Meets Dennis'
 
-html_text = requests.get('https://transcripts.foreverdreaming.org/viewtopic.php?f=1083&t=46642').text
+html_text = requests.get('https://transcripts.foreverdreaming.org/viewtopic.php?f=1083&t=46643').text
 soup = BeautifulSoup(html_text, 'lxml')
 
 chunks = soup.find('div', attrs={'class': 'postbody'})
 
 lines = str(chunks.find_all('p'))
-
-lines = re.sub('</*p>', '', lines)
+lines = re.sub('<p>', '', lines)
 lines = re.sub('<br/>', '', lines)
+lines = re.sub('\n', ' ', lines)
+arr = lines.split('</p>, ')
+ 
+print(arr[0])
+clean = []
+for line in arr:
+    clean.append({"name": "", "line": f"{line.strip()}"})
 
 
-print(lines)
-#for chunk in chunks:
-#    
-#    dirty_lines = chunk.find('p')
-#    clean = []
-#    for x in dirty_lines:
-#        strencode = x.text.encode("ascii", "ignore")
-#        temp= strencode.decode()
-#        temp = re.sub('\s\s+', ' ', temp)
-#        temp = temp.replace('.u00a0', '')
-#        temp = temp.strip()
-#        clean.append(re.sub('<.+>', '', temp))
-#    clean = ' '.join(clean)
-#   lines.append(clean)
-#    
-#print(lines)   
+dict = {
+    "season":  season, 
+    "episode": episode,
+    "title": title,
+    "script": clean
     
-with open(f'{episode}.json', 'w') as data:
-    json.dump(lines, data, ensure_ascii=False, indent=4)
+}
+   
+json_string = json.dumps(dict, indent=2)
+json_string = re.sub('\"\[', '"', json_string)
+json_string = re.sub('\]\"', '"', json_string)
+json_string = re.sub('', '', json_string)
 
+with open(f'episodes/30_rock_{file_name}.json', 'w') as data:
+    data.write(json_string)
 
-#with open("output.csv", 'w', newline= '') as output:
-##    wr = csv.writer(output, delimiter='/')
-#    for element in lines:
-#        wr.writerow([str(element)])
-#    output.close()
-#with open(f'{episode}.csv', 'w', newline="") as file:
-#    mywriter = csv.writer(file, delimiter='/')
-#    mywriter.writerows([lines])
