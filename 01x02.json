@@ -1,5 +1,8 @@
 {
-    "01x02": [
+    "season": 1,
+    "episode": 2,
+    "title": "The Aftermath",
+    "script": [
 {"name": "Liz", "line": "I thought Tracy was getting here at noon."},
 {"name": "Jack", "line": "Movie stars move at their own pace, Liz. We have to accommodate them."},
 {"name": "Liz", "line": "Yeah, well, a lot of people are still upset, about Tracy joining the show."},

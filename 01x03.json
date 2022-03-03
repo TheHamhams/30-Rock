@@ -1,5 +1,8 @@
 {
-    "01x02": [
+    "season": 1,
+    "episode": 3,
+    "title": "Blind Date",
+    "script": [
 {"name": "Frank", "line": "Robot, kick him in the knees. Bears have weak knees."},
 {"name": "Frank", "line": "He should vibrate, 'cause the robot's full of radiation."},
 {"name": "Frank", "line": "Yeah, that's it."},

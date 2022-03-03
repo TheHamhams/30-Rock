@@ -1,5 +1,8 @@
- {
- "01x01" : [
+{
+    "season": 1,
+    "episode": 1,
+    "title": "Pilot",
+    "script": [
 {"name": "Liz", "line": "Hello? Excuse me? There's a line, buddy."},
 {"name": "Man", "line": "There's two lines."},
 {"name": "Liz", "line": "No, no, there's one line. We're in it."},
@@ -304,5 +307,5 @@
 {"name": "Tracy", "line": "Yeah. Oh, yeah! Holla at your boy!"},
 {"name": "Greta", "line": "Hey, you will be hearing from Peanut's lawyer."},
 {"name": "Tracy", "line": "Good night, sleep tight. I can't wait to do this with you every week."}
-]
- }
+    ]
+}
