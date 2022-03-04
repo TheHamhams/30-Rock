@@ -3,7 +3,6 @@ import requests
 
 import re
 import json
-import csv
 
 file_name = '01x06'
 season = 1
@@ -21,7 +20,6 @@ lines = re.sub('<br/>', '', lines)
 lines = re.sub('\n', ' ', lines)
 arr = lines.split('</p>, ')
  
-print(arr[0])
 clean = []
 for line in arr:
     clean.append({"name": "", "line": f"{line.strip()}"})
