@@ -4,1336 +4,820 @@
   "title": "Jack-Tor-Full",
   "script": [
     {
-      "name": "",
-      "line": "Tracy Jordan to the stage, please."
+      "name": "PA",
+      "line": "Tracy Jordan to the stage, please. Tracy to the stage."
     },
     {
-      "name": "",
-      "line": "Tracy to the stage."
+      "name": "Liz",
+      "line": "Hey, hey, hey. Where are you going? They're paging you for rehearsal."
     },
     {
-      "name": "",
-      "line": "Hey, hey, hey. Where are you going?"
+      "name": "Tracy",
+      "line": "Rehearsal? We just did a show last week. I just came to pick up a paycheck."
     },
     {
-      "name": "",
-      "line": "They're paging you for rehearsal."
-    },
-    {
-      "name": "",
-      "line": "Rehearsal? We just did a show last week."
-    },
-    {
-      "name": "",
-      "line": "I just came to pick up a paycheck."
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "No, we do a show every Friday, Tracy."
     },
     {
-      "name": "",
-      "line": "It's not gonna work."
+      "name": "Tracy",
+      "line": "It's not gonna work. Next Friday is Damon Dash's birthday party, and the Friday after that is an orgy over at Elizabeth..."
     },
     {
-      "name": "",
-      "line": "Next Friday is Damon Dash's birthday party,"
+      "name": "Liz",
+      "line": "Yeah, well, you're part of a team now, okay, so you have to be in the shows and you have to rehearse."
     },
     {
-      "name": "",
-      "line": "and the Friday after that is an orgy over at Elizabeth..."
+      "name": "Liz",
+      "line": "And when you rehearse, Jenna would really like it... I would like it, too... if you would read exactly what's on the cue cards. It's making everybody crazy."
     },
     {
-      "name": "",
-      "line": "Yeah, well, you're part of a team now, okay,"
+      "name": "Tracy",
+      "line": "Can't do it. I'm an improviser. My acting style is like jazz... jazz that you laugh at."
     },
     {
-      "name": "",
-      "line": "so you have to be in the shows and you have to rehearse."
-    },
-    {
-      "name": "",
-      "line": "And when you rehearse, Jenna would really like it..."
-    },
-    {
-      "name": "",
-      "line": "I would like it, too..."
-    },
-    {
-      "name": "",
-      "line": "if you would read exactly what's on the cue cards."
-    },
-    {
-      "name": "",
-      "line": "It's making everybody crazy."
-    },
-    {
-      "name": "",
-      "line": "Can't do it. I'm an improviser."
-    },
-    {
-      "name": "",
-      "line": "My acting style is like jazz... jazz that you laugh at."
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "Just try, okay?"
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "I have a meeting upstairs. I'll be right back."
     },
     {
-      "name": "",
-      "line": "Pete, do you remember that song I recorded last year"
+      "name": "Jenna",
+      "line": "Pete, do you remember that song I recorded last year when I was dating that Persian record producer?"
     },
     {
-      "name": "",
-      "line": "when I was dating that Persian record producer?"
-    },
-    {
-      "name": "",
+      "name": "Pete",
       "line": "Oh... no."
     },
     {
-      "name": "",
-      "line": "It's a dance-pop-techno hybrid called \"Muffin Top.\""
+      "name": "Jenna",
+      "line": "It's a dance-pop-techno hybrid called \"Muffin Top.\" I gave everybody copies at Christmas."
     },
     {
-      "name": "",
-      "line": "I gave everybody copies at Christmas."
-    },
-    {
-      "name": "",
+      "name": "Pete",
       "line": "Oh, yeah, right. I don't remember that."
     },
     {
-      "name": "",
+      "name": "Jenna",
       "line": "Well, apparently, it's a number-one hit in Israel."
     },
     {
-      "name": "",
+      "name": "Pete",
       "line": "Hey, Israel. Wow."
     },
     {
-      "name": "",
-      "line": "I noticed we had a couple minutes left,"
+      "name": "Jenna",
+      "line": "I noticed we had a couple minutes left, so I thought I could do it on the show."
     },
     {
-      "name": "",
-      "line": "so I thought I could do it on the show."
-    },
-    {
-      "name": "",
+      "name": "Pete",
       "line": "Okay, you can do the short version."
     },
     {
-      "name": "",
+      "name": "Jenna",
       "line": "You should know that \"Muffin Top\" is number four in Belgium."
     },
     {
-      "name": "",
-      "line": "I said you could do it. Why not?"
+      "name": "Pete",
+      "line": "I said you could do it."
     },
     {
-      "name": "",
-      "line": "Oh. I mean thank you."
+      "name": "Jenna",
+      "line": "Why not? Oh. I mean thank you."
     },
     {
-      "name": "",
-      "line": "Hello."
+      "name": "Jack",
+      "line": "Hello. For over 100 years, G. E. has been imagining the future today."
     },
     {
-      "name": "",
-      "line": "For over 100 years,"
+      "name": "Jack",
+      "line": "And I'm here to talk to you today about a wonderful new synergy. It's called product integration."
     },
     {
-      "name": "",
-      "line": "G. E. has been imagining the future today."
+      "name": "Jack",
+      "line": "It's revolutionizing the way we monetize broadcast television."
     },
     {
-      "name": "",
-      "line": "And I'm here to talk to you today"
-    },
-    {
-      "name": "",
-      "line": "about a wonderful new synergy."
-    },
-    {
-      "name": "",
-      "line": "It's called product integration."
-    },
-    {
-      "name": "",
-      "line": "It's revolutionizing the way"
-    },
-    {
-      "name": "",
-      "line": "we monetize broadcast television."
-    },
-    {
-      "name": "",
+      "name": "Jack",
       "line": "How does it work? Simple."
     },
     {
-      "name": "",
-      "line": "All you have to do"
+      "name": "Jack",
+      "line": "All you have to do as the writing staff of an NBC show is incorporate positive mentions, or \"pos-mens,\" of G.E. products into your program."
     },
     {
-      "name": "",
-      "line": "as the writing staff of an NBC show"
+      "name": "Jack",
+      "line": "For example, you could write an episode where one of your characters purchases and is satisfied with... one of G.E. 's direct-current drilling motors for an offshore or land-based project."
     },
     {
-      "name": "",
-      "line": "is incorporate positive mentions,"
+      "name": "Jack",
+      "line": "Product integration... setting a new standard in upward revenue-stream dynamics... for all of us."
     },
     {
-      "name": "",
-      "line": "or \"pos-mens,\" of G.E. products into your program."
-    },
-    {
-      "name": "",
-      "line": "For example, you could write an episode"
-    },
-    {
-      "name": "",
-      "line": "where one of your characters"
-    },
-    {
-      "name": "",
-      "line": "purchases and is satisfied with..."
-    },
-    {
-      "name": "",
-      "line": "one of G.E. 's direct-current drilling motors"
-    },
-    {
-      "name": "",
-      "line": "for an offshore or land-based project."
-    },
-    {
-      "name": "",
-      "line": "Product integration..."
-    },
-    {
-      "name": "",
-      "line": "setting a new standard"
-    },
-    {
-      "name": "",
-      "line": "in upward revenue-stream dynamics..."
-    },
-    {
-      "name": "",
-      "line": "for all of us."
-    },
-    {
-      "name": "",
+      "name": "Jack",
       "line": "Now, I'd be happy to answer any questions."
     },
     {
-      "name": "",
-      "line": "I'm sorry."
+      "name": "Liz",
+      "line": "I'm sorry. You're saying you want us to use the show to sell stuff?"
     },
     {
-      "name": "",
-      "line": "You're saying you want us to use the show to sell stuff?"
-    },
-    {
-      "name": "",
+      "name": "Jack",
       "line": "Look, I-I know how this sounds."
     },
     {
-      "name": "",
-      "line": "No, come on, Jack. We're not doing that."
+      "name": "Liz",
+      "line": "No, come on, Jack. We're not doing that. We're not compromising the integrity of the show to sell..."
     },
     {
-      "name": "",
-      "line": "We're not compromising the integrity of the show to sell..."
-    },
-    {
-      "name": "",
+      "name": "Pete",
       "line": "Wow, this is Diet Snapple?"
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "I know. It tastes just like regular Snapple, doesn't it?"
     },
     {
-      "name": "",
+      "name": "Frank",
       "line": "You should try Plum-A-Granate. It's amazing."
     },
     {
-      "name": "",
+      "name": "Cerie",
       "line": "I only date guys who drink Snapple."
     },
     {
-      "name": "",
-      "line": "Look, we all love Snapple."
+      "name": "Jack",
+      "line": "Look, we all love Snapple. Lord knows I do, but focus here. We're talking about product integration."
     },
     {
-      "name": "",
-      "line": "Lord knows I do, but focus here."
-    },
-    {
-      "name": "",
-      "line": "We're talking about product integration."
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "We're not your shills."
     },
     {
-      "name": "",
-      "line": "Oh, oh, I'm sorry. That's right."
+      "name": "Jack",
+      "line": "Oh, oh, I'm sorry. That's right. They're artists, like James Joyce or Strindberg."
     },
     {
-      "name": "",
-      "line": "They're artists, like James Joyce or Strindberg."
+      "name": "Jack",
+      "line": "Get real, kids. You write skits mocking our presidents to fill time between car commercials."
     },
     {
-      "name": "",
-      "line": "Get real, kids."
+      "name": "Liz",
+      "line": "That's not fair. Josh gets a lot of fan mail for \"Gaybraham Lincoln.\""
     },
     {
-      "name": "",
-      "line": "You write skits mocking our presidents"
-    },
-    {
-      "name": "",
-      "line": "to fill time between car commercials."
-    },
-    {
-      "name": "",
-      "line": "That's not fair."
-    },
-    {
-      "name": "",
-      "line": "Josh gets a lot of fan mail for \"Gaybraham Lincoln.\""
-    },
-    {
-      "name": "",
+      "name": "Josh",
       "line": "\"Four score and seven beers ago...\""
     },
     {
-      "name": "",
-      "line": "Did you guys know that Holland"
+      "name": "Liz",
+      "line": "Did you guys know that Holland is the only country with a national dog?"
     },
     {
-      "name": "",
-      "line": "is the only country with a national dog?"
+      "name": "Pete",
+      "line": "I didn't know that. Thank you, Snapple."
     },
     {
-      "name": "",
-      "line": "I didn't know that. Thank you, Snapple. There's little facts"
+      "name": "Liz",
+      "line": "There's little facts"
     },
     {
-      "name": "",
-      "line": "That's a lunch break, everyone."
+      "name": "PA",
+      "line": "That's a lunch break, everyone. Back in an hour, please."
     },
     {
-      "name": "",
-      "line": "Back in an hour, please."
-    },
-    {
-      "name": "",
+      "name": "Jenna",
       "line": "Um, did you talk to Tracy about reading the cue cards?"
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "I tried."
     },
     {
-      "name": "",
+      "name": "Jenna",
       "line": "Well, he's not reading them. He never reads them, Liz."
     },
     {
-      "name": "",
-      "line": "I'm starting to think..."
+      "name": "Jenna",
+      "line": "I'm starting to think... he can't read."
     },
     {
-      "name": "",
-      "line": "he can't read."
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "Oh, that... That's just offensive, Jenna."
     },
     {
-      "name": "",
-      "line": "I don't know."
+      "name": "Jenna",
+      "line": "I don't know. Have you ever seen him read anything?"
     },
     {
-      "name": "",
-      "line": "Have you ever seen him read anything?"
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "Of course, like when we shoot promos."
     },
     {
-      "name": "",
-      "line": "Hi, I'm Tracy Jordan."
+      "name": "Tracy",
+      "line": "Hi, I'm Tracy Jordan. I'm black, NBC... very proud, like peacocks. Right, Janet?"
     },
     {
-      "name": "",
-      "line": "I'm black, NBC... very proud, like peacocks."
-    },
-    {
-      "name": "",
-      "line": "Right, Janet?"
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "Hmm."
     },
     {
-      "name": "",
-      "line": "Hey, Tracy. I missed that last run-through."
+      "name": "Liz",
+      "line": "Hey, Tracy. I missed that last run-through. Could you run it once off cards for me?"
     },
     {
-      "name": "",
-      "line": "Could you run it once off cards for me?"
+      "name": "Tracy",
+      "line": "Nah, Lemon. I'll do that later. I got to bounce."
     },
     {
-      "name": "",
-      "line": "Nah, Lemon. I'll do that later."
-    },
-    {
-      "name": "",
-      "line": "I got to bounce."
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "Okay, that's a..."
     },
     {
-      "name": "",
-      "line": "It says \"emergency exit only.\""
+      "name": "Jenna",
+      "line": "It says \"emergency exit only.\" He couldn't read that?"
     },
     {
-      "name": "",
-      "line": "He couldn't read that?"
+      "name": "Frank",
+      "line": "Man, Jenna's really gotten squirrelly since Tracy came along."
     },
     {
-      "name": "",
-      "line": "Man, Jenna's really gotten squirrelly"
-    },
-    {
-      "name": "",
-      "line": "since Tracy came along."
-    },
-    {
-      "name": "",
+      "name": "Toofer",
       "line": "It's so sad."
     },
     {
-      "name": "",
-      "line": "What's really sad is that, while she's in this fragile state,"
+      "name": "Frank",
+      "line": "What's really sad is that, while she's in this fragile state, none of her friends are messing with her head."
     },
     {
-      "name": "",
-      "line": "none of her friends are messing with her head."
-    },
-    {
-      "name": "",
+      "name": "Toofer",
       "line": "I think we should do something about that."
     },
     {
-      "name": "",
-      "line": "Oh..."
+      "name": "Toofer",
+      "line": "Oh... Okay, all right..."
     },
     {
-      "name": "",
-      "line": "Okay, all right..."
-    },
-    {
-      "name": "",
+      "name": "Jenna",
       "line": "Hey, what are you guys talking about?"
     },
     {
-      "name": "",
+      "name": "Frank",
       "line": "Oh, uh... nothing."
     },
     {
-      "name": "",
+      "name": "Jenna",
       "line": "What? Is it about me?"
     },
     {
-      "name": "",
-      "line": "Okay, um, there's a rumor going around"
+      "name": "Toofer",
+      "line": "Okay, um, there's a rumor going around that Donaghy has to cut costs around here."
     },
     {
-      "name": "",
-      "line": "that Donaghy has to cut costs around here."
-    },
-    {
-      "name": "",
+      "name": "Jenna",
       "line": "Oh."
     },
     {
-      "name": "",
-      "line": "Yeah, my friend in accounting, Lando Calrissian,"
+      "name": "Frank",
+      "line": "Yeah, my friend in accounting, Lando Calrissian, he says Jack's probably gonna have to fire an actor."
     },
     {
-      "name": "",
-      "line": "he says Jack's probably gonna have to fire an actor."
-    },
-    {
-      "name": "",
+      "name": "Jenna",
       "line": "Oh, thank you guys for telling me."
     },
     {
-      "name": "",
-      "line": "It's like sh**ting fish in a barrel."
+      "name": "Toofer",
+      "line": "It's like shooting fish in a barrel."
     },
     {
-      "name": "",
+      "name": "Frank",
       "line": "Yeah, if the fish have Daddy issues."
     },
     {
-      "name": "",
-      "line": "I can't believe you guys actually wrote"
+      "name": "Pete",
+      "line": "I can't believe you guys actually wrote a product-integration sketch."
     },
     {
-      "name": "",
-      "line": "a product-integration sketch."
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "Jack said we had to."
     },
     {
-      "name": "",
-      "line": "It just seems weird."
+      "name": "Pete",
+      "line": "It just seems weird. The show's not a commercial."
     },
     {
-      "name": "",
-      "line": "The show's not a commercial."
+      "name": "Snapple",
+      "line": "Excuse me. Can you tell me where human resources is, please?"
     },
     {
-      "name": "",
-      "line": "Excuse me."
-    },
-    {
-      "name": "",
-      "line": "Can you tell me where human resources is, please?"
-    },
-    {
-      "name": "",
+      "name": "Snapple",
       "line": "That way. Thanks."
     },
     {
-      "name": "",
-      "line": "This is gonna sound crazy, but, um..."
+      "name": "Liz",
+      "line": "This is gonna sound crazy, but, um... Tracy can read, right?"
     },
     {
-      "name": "",
-      "line": "Tracy can read, right?"
-    },
-    {
-      "name": "",
+      "name": "Pete",
       "line": "Are you serious? The guy's done dozens of movies."
     },
     {
-      "name": "",
-      "line": "Yeah, but it's not like his movies seem"
+      "name": "Liz",
+      "line": "Yeah, but it's not like his movies seem like he's reading a script."
     },
     {
-      "name": "",
-      "line": "like he's reading a script."
+      "name": "Tracy",
+      "line": "Let's go rescue Karen... or whatever. Is it Sheryl?"
     },
     {
-      "name": "",
-      "line": "Let's go rescue Karen... or whatever."
+      "name": "Tracy",
+      "line": "Then she can tell us where the drugs are... I mean gold."
     },
     {
-      "name": "",
-      "line": "Is it Sheryl?"
+      "name": "Tracy",
+      "line": "Then we got the car chase. I'm getting way too old for this. Was I supposed to say that then?"
     },
     {
-      "name": "",
-      "line": "Then she can tell us where the drugs are..."
-    },
-    {
-      "name": "",
-      "line": "I mean gold."
-    },
-    {
-      "name": "",
-      "line": "Then we got the car chase."
-    },
-    {
-      "name": "",
-      "line": "I'm getting way too old for this."
-    },
-    {
-      "name": "",
-      "line": "Was I supposed to say that then?"
-    },
-    {
-      "name": "",
+      "name": "Pete",
       "line": "That's true. And he never reads the cue cards."
     },
     {
-      "name": "",
-      "line": "God, I thought all that stuff was just crazy Tracy,"
+      "name": "Pete",
+      "line": "God, I thought all that stuff was just crazy Tracy, seeing what he could get away with."
     },
     {
-      "name": "",
-      "line": "seeing what he could get away with."
+      "name": "Liz",
+      "line": "I know, but, you know, it's not surprising. Look at the educational system in this country. We spend all this money in Iraq, but meanwhile, our inner-city graduation rates are lower than they are in the Sudan."
     },
     {
-      "name": "",
-      "line": "I know, but, you know, it's not surprising."
-    },
-    {
-      "name": "",
-      "line": "Look at the educational system in this country."
-    },
-    {
-      "name": "",
-      "line": "We spend all this money in Iraq,"
-    },
-    {
-      "name": "",
-      "line": "but meanwhile, our inner-city graduation rates"
-    },
-    {
-      "name": "",
-      "line": "are lower than they are in the Sudan."
-    },
-    {
-      "name": "",
+      "name": "Pete",
       "line": "That doesn't sound right."
     },
     {
-      "name": "",
-      "line": "Maybe it was Sweden."
+      "name": "Liz",
+      "line": "Maybe it was Sweden. Maybe it was teen pregnancy. I got to read more."
     },
     {
-      "name": "",
-      "line": "Maybe it was teen pregnancy."
-    },
-    {
-      "name": "",
-      "line": "I got to read more."
-    },
-    {
-      "name": "",
+      "name": "Jack",
       "line": "What can I do for you?"
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "So, we wrote a product-integration sketch."
     },
     {
-      "name": "",
+      "name": "Jack",
       "line": "Good."
     },
     {
-      "name": "",
-      "line": "But we wanted to run it by you first"
+      "name": "Liz",
+      "line": "But we wanted to run it by you first because it's about how G. E. is making us do this, and we were kind of hoping that the G. E. executive in the sketch could be played by you."
     },
     {
-      "name": "",
-      "line": "because it's about how G. E. is making us do this,"
+      "name": "Jack",
+      "line": "Oh, I get it... the whole self-referential thing."
     },
     {
-      "name": "",
-      "line": "and we were kind of hoping"
+      "name": "Jack",
+      "line": "Letterman hates the suits, Stern yells at his boss, Nixon's \"sock it to me\" on \"Laugh-ln.\""
     },
     {
-      "name": "",
-      "line": "that the G. E. executive in the sketch"
-    },
-    {
-      "name": "",
-      "line": "could be played by you."
-    },
-    {
-      "name": "",
-      "line": "Oh, I get it..."
-    },
-    {
-      "name": "",
-      "line": "the whole self-referential thing."
-    },
-    {
-      "name": "",
-      "line": "Letterman hates the suits, Stern yells at his boss,"
-    },
-    {
-      "name": "",
-      "line": "Nixon's \"sock it to me\" on \"Laugh-ln.\""
-    },
-    {
-      "name": "",
+      "name": "Jack",
       "line": "Yeah, hippie humor."
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "That's what I'm going for."
     },
     {
-      "name": "",
-      "line": "As you know, I've been studying comedy"
+      "name": "Jack",
+      "line": "As you know, I've been studying comedy and learning what's funny."
     },
     {
-      "name": "",
-      "line": "and learning what's funny."
+      "name": "Jack",
+      "line": "I'm watching \"Friends\" right now. What happens with Ross and Rachel? No, no, don't tell me... seriously. What were you saying?"
     },
     {
-      "name": "",
-      "line": "I'm watching \"Friends\" right now."
-    },
-    {
-      "name": "",
-      "line": "What happens with Ross and Rachel?"
-    },
-    {
-      "name": "",
-      "line": "No, no, don't tell me... seriously."
-    },
-    {
-      "name": "",
-      "line": "What were you saying?"
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "So, will you do it?"
     },
     {
-      "name": "",
-      "line": "I don't know, Lemon. I'm not an actor."
+      "name": "Jack",
+      "line": "I don't know, Lemon. I'm not an actor. This is... your world."
     },
     {
-      "name": "",
-      "line": "This is... your world."
+      "name": "Liz",
+      "line": "Oh, come on. You can do this. You were great in that video. Yeah."
     },
     {
-      "name": "",
-      "line": "Oh, come on. You can do this."
+      "name": "Jack",
+      "line": "This is live television. I've never done anything like that before."
     },
     {
-      "name": "",
-      "line": "You were great in that video. Yeah."
-    },
-    {
-      "name": "",
-      "line": "This is live television."
-    },
-    {
-      "name": "",
-      "line": "I've never done anything like that before."
-    },
-    {
-      "name": "",
+      "name": "Jack",
       "line": "Okay, I'll do it."
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "Great, great. Thanks, Jack."
     },
     {
-      "name": "",
-      "line": "So, rehearsal will be tomorrow at 2:00."
+      "name": "Liz",
+      "line": "So, rehearsal will be tomorrow at 2:00. Please don't be late. I will fax you any changes by 9:00 a. m."
     },
     {
-      "name": "",
-      "line": "Please don't be late."
-    },
-    {
-      "name": "",
-      "line": "I will fax you any changes by 9:00 a. m."
-    },
-    {
-      "name": "",
+      "name": "Jack",
       "line": "You're such a Monica."
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "You are."
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "He never reads anything."
     },
     {
-      "name": "",
+      "name": "Jenna",
       "line": "Uh, why is Jack Donaghy on the cast list?"
     },
     {
-      "name": "",
-      "line": "He's gonna do this G. E. sketch."
+      "name": "Liz",
+      "line": "He's gonna do this G. E. sketch. It's really funny."
     },
     {
-      "name": "",
-      "line": "It's really funny."
+      "name": "Jenna",
+      "line": "So he gets to be in sketches, but he's gonna fire one of the real actors."
     },
     {
-      "name": "",
-      "line": "So he gets to be in sketches,"
-    },
-    {
-      "name": "",
-      "line": "but he's gonna fire one of the real actors."
-    },
-    {
-      "name": "",
-      "line": "What? I got inside information"
-    },
-    {
-      "name": "",
-      "line": "that Jack is gonna fire one of the actors to cut costs."
-    },
-    {
-      "name": "",
-      "line": "I haven't heard anything like that. Don't worry about it."
-    },
-    {
-      "name": "",
-      "line": "Oh, I'm not worried"
-    },
-    {
-      "name": "",
-      "line": "because I have something the other actors don't..."
-    },
-    {
-      "name": "",
-      "line": "a secret weapon."
-    },
-    {
-      "name": "",
-      "line": "Don't say your sexuality."
-    },
-    {
-      "name": "",
-      "line": "My sexuality."
-    },
-    {
-      "name": "",
-      "line": "Oh, God, Jenna, when has that ever worked?"
-    },
-    {
-      "name": "",
-      "line": "Uh, when has it not worked?"
-    },
-    {
-      "name": "",
-      "line": "lt'll be a 45-minute wait."
-    },
-    {
-      "name": "",
-      "line": "Oh, will it?"
-    },
-    {
-      "name": "",
-      "line": "Uh, yeah, yeah, yeah, it will."
-    },
-    {
-      "name": "",
-      "line": "Yeah, but this is different"
-    },
-    {
-      "name": "",
-      "line": "because I know Jack Donaghy."
-    },
-    {
-      "name": "",
-      "line": "I know what he likes."
-    },
-    {
-      "name": "",
-      "line": "Yeah, so now you just have to make yourself"
-    },
-    {
-      "name": "",
-      "line": "10 years younger and Asian."
-    },
-    {
-      "name": "",
-      "line": "I don't know what to tell you."
-    },
-    {
-      "name": "",
-      "line": "They're making me rehearse."
-    },
-    {
-      "name": "",
-      "line": "I know Pat Benatar rarely performs live."
-    },
-    {
-      "name": "",
-      "line": "Scalp the damn tickets!"
-    },
-    {
-      "name": "",
-      "line": "These are the changes for the sketches you're in."
-    },
-    {
-      "name": "",
-      "line": "Cool. I'll read those later, Lemon."
-    },
-    {
-      "name": "",
-      "line": "Tray..."
-    },
-    {
-      "name": "",
-      "line": "can you read?"
-    },
-    {
-      "name": "",
-      "line": "Can I read?"
-    },
-    {
-      "name": "",
-      "line": "Please don't get angry."
-    },
-    {
-      "name": "",
-      "line": "It's not your fault. It's the system."
-    },
-    {
-      "name": "",
-      "line": "Did you ever see \"Hoop Dreams\"? It's like that."
-    },
-    {
-      "name": "",
-      "line": "So you're asking me if I'm illiterate?!"
-    },
-    {
-      "name": "",
-      "line": "You don't even have to answer me if you don't want to."
-    },
-    {
-      "name": "",
-      "line": "Just know that if you need a tutor, we will get you a tutor."
-    },
-    {
-      "name": "",
-      "line": "If you need to be in fewer sketches"
-    },
-    {
-      "name": "",
-      "line": "until you get more confident, we'll accommodate you..."
-    },
-    {
-      "name": "",
-      "line": "whatever you need."
-    },
-    {
-      "name": "",
-      "line": "So I could, like, leave work early"
-    },
-    {
-      "name": "",
-      "line": "if I need a tutor?"
-    },
-    {
-      "name": "",
-      "line": "Absolutely. We'll work around your schedule."
-    },
-    {
-      "name": "",
-      "line": "I can't read, Liz Lemon!"
-    },
-    {
-      "name": "",
-      "line": "My shameful secret is out."
-    },
-    {
-      "name": "",
-      "line": "Now you know"
-    },
-    {
-      "name": "",
-      "line": "why I'm always running into the ladies' bathroom."
-    },
-    {
-      "name": "",
-      "line": "I can't read!"
-    },
-    {
-      "name": "",
-      "line": "I sign my name with an \"X\"!"
-    },
-    {
-      "name": "",
-      "line": "I once tried to make mashed potatoes"
-    },
-    {
-      "name": "",
-      "line": "with laundry detergent!"
-    },
-    {
-      "name": "",
-      "line": "I think I voted for Nader!"
-    },
-    {
-      "name": "",
-      "line": "Nader!"
-    },
-    {
-      "name": "",
-      "line": "I feel as though a great weight"
-    },
-    {
-      "name": "",
-      "line": "has been lifted off of me, Liz Lemon."
-    },
-    {
-      "name": "",
-      "line": "Today is the first day of the rest of my life..."
-    },
-    {
-      "name": "",
-      "line": "all thanks to one very, very special white lady."
-    },
-    {
-      "name": "",
-      "line": "I'll be in late tomorrow."
-    },
-    {
-      "name": "",
-      "line": "Damn, George Will just gets more and more conservative."
-    },
-    {
-      "name": "",
-      "line": "Liz?"
-    },
-    {
-      "name": "",
-      "line": "Hey. Did you tell Jack he can be on the show?"
-    },
-    {
-      "name": "",
-      "line": "Yeah, he was kind of excited about it, actually."
-    },
-    {
-      "name": "",
-      "line": "Oh, yeah, he's very excited."
-    },
-    {
-      "name": "",
-      "line": "But you cannot put him on live TV."
-    },
-    {
-      "name": "",
-      "line": "Why?"
-    },
-    {
-      "name": "",
-      "line": "Okay."
-    },
-    {
-      "name": "",
-      "line": "I am only showing you this"
-    },
-    {
-      "name": "",
-      "line": "because I care about him so much."
-    },
-    {
-      "name": "",
-      "line": "G.E. promo, take one."
-    },
-    {
-      "name": "",
-      "line": "MAN #2: Action!"
-    },
-    {
-      "name": "",
-      "line": "Did you say \"action\"? Yes, action."
-    },
-    {
-      "name": "",
-      "line": "Could you say it louder, please? I'm sorry. Action!"
-    },
-    {
-      "name": "",
-      "line": "G.E. promo, take two."
-    },
-    {
-      "name": "",
-      "line": "Hello."
-    },
-    {
-      "name": "",
-      "line": "For over 100 years..."
-    },
-    {
-      "name": "",
-      "line": "Line? Sorry. My bad."
-    },
-    {
-      "name": "",
-      "line": "What's the first line?"
-    },
-    {
-      "name": "",
-      "line": "Product integration."
-    },
-    {
-      "name": "",
-      "line": "Okay."
-    },
-    {
-      "name": "",
-      "line": "Right, got it. I just need the first word."
-    },
-    {
-      "name": "",
-      "line": "\"Product.\""
-    },
-    {
-      "name": "",
-      "line": "What's the second word?"
-    },
-    {
-      "name": "",
-      "line": "\"Integration.\" Okay, I knew that."
-    },
-    {
-      "name": "",
-      "line": "Okay, if I ask for the line again, don't tell me."
-    },
-    {
-      "name": "",
-      "line": "Line?"
-    },
-    {
-      "name": "",
-      "line": "Line?"
-    },
-    {
-      "name": "",
-      "line": "\"Product integration.\""
-    },
-    {
-      "name": "",
-      "line": "I told you, don't give me the line when I ask for the line."
-    },
-    {
-      "name": "",
-      "line": "l- I got it, I got it."
-    },
-    {
-      "name": "",
-      "line": "Can we get a do-over there?"
-    },
-    {
-      "name": "",
-      "line": "Let's go again. Can we?"
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "What?"
     },
     {
-      "name": "",
+      "name": "Jenna",
+      "line": "I got inside information that Jack is gonna fire one of the actors to cut costs."
+    },
+    {
+      "name": "Liz",
+      "line": "I haven't heard anything like that. Don't worry about it."
+    },
+    {
+      "name": "Jenna",
+      "line": "Oh, I'm not worried"
+    },
+    {
+      "name": "Jenna",
+      "line": "because I have something the other actors don't... a secret weapon."
+    },
+    {
+      "name": "Liz",
+      "line": "Don't say your sexuality."
+    },
+    {
+      "name": "Jenna",
+      "line": "My sexuality."
+    },
+    {
+      "name": "Liz",
+      "line": "Oh, God, Jenna, when has that ever worked?"
+    },
+    {
+      "name": "Jenna",
+      "line": "Uh, when has it not worked?"
+    },
+    {
+      "name": "Host",
+      "line": "lt'll be a 45-minute wait."
+    },
+    {
+      "name": "Jenna",
+      "line": "Oh, will it?"
+    },
+    {
+      "name": "Host",
+      "line": "Uh, yeah, yeah, yeah, it will."
+    },
+    {
+      "name": "Jenna",
+      "line": "Yeah, but this is different because I know Jack Donaghy. I know what he likes."
+    },
+    {
+      "name": "Liz",
+      "line": "Yeah, so now you just have to make yourself 10 years younger and Asian."
+    },
+    {
+      "name": "Tracy",
+      "line": "I don't know what to tell you. They're making me rehearse. I know Pat Benatar rarely performs live. Scalp the damn tickets!"
+    },
+    {
+      "name": "Liz",
+      "line": "These are the changes for the sketches you're in."
+    },
+    {
+      "name": "Tracy",
+      "line": "Cool. I'll read those later, Lemon."
+    },
+    {
+      "name": "Liz",
+      "line": "Tray... can you read?"
+    },
+    {
+      "name": "Tracy",
+      "line": "Can I read?"
+    },
+    {
+      "name": "Liz",
+      "line": "Please don't get angry. It's not your fault. It's the system."
+    },
+    {
+      "name": "Liz",
+      "line": "Did you ever see \"Hoop Dreams\"? It's like that."
+    },
+    {
+      "name": "Tracy",
+      "line": "So you're asking me if I'm illiterate?!"
+    },
+    {
+      "name": "Liz",
+      "line": "You don't even have to answer me if you don't want to. Just know that if you need a tutor, we will get you a tutor."
+    },
+    {
+      "name": "Liz",
+      "line": "If you need to be in fewer sketches until you get more confident, we'll accommodate you... whatever you need."
+    },
+    {
+      "name": "Tracy",
+      "line": "So I could, like, leave work early if I need a tutor?"
+    },
+    {
+      "name": "Liz",
+      "line": "Absolutely. We'll work around your schedule."
+    },
+    {
+      "name": "Tracy",
+      "line": "I can't read, Liz Lemon! My shameful secret is out."
+    },
+    {
+      "name": "Tracy",
+      "line": "Now you know why I'm always running into the ladies' bathroom."
+    },
+    {
+      "name": "Tracy",
+      "line": "I can't read! I sign my name with an \"X\"! I once tried to make mashed potatoes with laundry detergent!"
+    },
+    {
+      "name": "Tracy",
+      "line": "I think I voted for Nader! Nader!"
+    },
+    {
+      "name": "Tracy",
+      "line": "I feel as though a great weight has been lifted off of me, Liz Lemon. Today is the first day of the rest of my life... all thanks to one very, very special white lady."
+    },
+    {
+      "name": "Tracy",
+      "line": "I'll be in late tomorrow."
+    },
+    {
+      "name": "Tracy",
+      "line": "Damn, George Will just gets more and more conservative."
+    },
+    {
+      "name": "Jonathan",
+      "line": "Liz?"
+    },
+    {
+      "name": "Pete",
+      "line": "Hey."
+    },
+    {
+      "name": "Jonathan",
+      "line": "Did you tell Jack he can be on the show?"
+    },
+    {
+      "name": "Liz",
+      "line": "Yeah, he was kind of excited about it, actually."
+    },
+    {
+      "name": "Jonathan",
+      "line": "Oh, yeah, he's very excited. But you cannot put him on live TV."
+    },
+    {
+      "name": "Liz",
+      "line": "Why?"
+    },
+    {
+      "name": "Jonathan",
+      "line": "Okay. I am only showing you this because I care about him so much."
+    },
+    {
+      "name": "Man",
+      "line": "G.E. promo, take one."
+    },
+    {
+      "name": "Director",
+      "line": "Action!"
+    },
+    {
+      "name": "Jack",
+      "line": "Did you say \"action\"?"
+    },
+    {
+      "name": "Director",
+      "line": "Yes, action."
+    },
+    {
+      "name": "Jack",
+      "line": "Could you say it louder, please?"
+    },
+    {
+      "name": "Director",
+      "line": "I'm sorry. Action!"
+    },
+    {
+      "name": "Man",
+      "line": "G.E. promo, take two."
+    },
+    {
+      "name": "Jack",
+      "line": "Hello. For over 100 years... Line? Sorry. My bad. What's the first line?"
+    },
+    {
+      "name": "Director",
+      "line": "Product integration."
+    },
+    {
+      "name": "Jack",
+      "line": "Okay. Right, got it. I just need the first word."
+    },
+    {
+      "name": "Director",
+      "line": "\"Product.\""
+    },
+    {
+      "name": "Jack",
+      "line": "What's the second word?"
+    },
+    {
+      "name": "Director",
+      "line": "\"Integration.\""
+    },
+    {
+      "name": "Jack",
+      "line": "Okay, I knew that. Okay, if I ask for the line again, don't tell me."
+    },
+    {
+      "name": "Jack",
+      "line": "Line? Line?"
+    },
+    {
+      "name": "Director",
+      "line": "\"Product integration.\""
+    },
+    {
+      "name": "Jack",
+      "line": "I told you, don't give me the line when I ask for the line."
+    },
+    {
+      "name": "Jack",
+      "line": "l- I got it, I got it."
+    },
+    {
+      "name": "Jack",
+      "line": "Can we get a do-over there?"
+    },
+    {
+      "name": "Jack",
+      "line": "Let's go again. Can we?"
+    },
+    {
+      "name": "Jack",
+      "line": "What?"
+    },
+    {
+      "name": "Jack",
       "line": "What is it?"
     },
     {
-      "name": "",
+      "name": "Jack",
       "line": "I don't like this at all. Okay, I got it."
     },
     {
-      "name": "",
+      "name": "Jack",
       "line": "Let's go again."
     },
     {
-      "name": "",
+      "name": "Jack",
       "line": "The pen doesn't really write. Does that matter?"
     },
     {
-      "name": "",
-      "line": "And I'm here today..."
+      "name": "Jack",
+      "line": "And I'm here today... My bad. I'm sorry."
     },
     {
-      "name": "",
-      "line": "My bad. I'm sorry."
+      "name": "Jack",
+      "line": "Why don't we go to lunch, and we'll come back and maybe... Let's all go have lunch."
     },
     {
-      "name": "",
-      "line": "Why don't we go to lunch, and we'll come back and maybe..."
-    },
-    {
-      "name": "",
-      "line": "Let's all go have lunch."
-    },
-    {
-      "name": "",
+      "name": "Man",
       "line": "G.E. promo 126."
     },
     {
-      "name": "",
-      "line": "It's weird. What do I do with my arms?"
+      "name": "Jack",
+      "line": "It's weird. What do I do with my arms? I've never thought about that before. Is it this... or, if I may... this?"
     },
     {
-      "name": "",
-      "line": "I've never thought about that before."
-    },
-    {
-      "name": "",
-      "line": "Is it this..."
-    },
-    {
-      "name": "",
-      "line": "or, if I may..."
-    },
-    {
-      "name": "",
-      "line": "this?"
-    },
-    {
-      "name": "",
+      "name": "Jack",
       "line": "Maybe I should just hold something."
     },
     {
-      "name": "",
-      "line": "Okay, yeah. This feels more natural."
+      "name": "Jack",
+      "line": "Okay, yeah. This feels more natural. Is that right? Yeah?"
     },
     {
-      "name": "",
-      "line": "Is that right? Yeah?"
-    },
-    {
-      "name": "",
+      "name": "Jack",
       "line": "\"New synergy...\""
     },
     {
-      "name": "",
-      "line": "Does that sound odd to anyone else?"
+      "name": "Jack",
+      "line": "Does that sound odd to anyone else? Does that sound like \"news energy?\""
     },
     {
-      "name": "",
-      "line": "Does that sound like \"news energy?\""
+      "name": "Jack",
+      "line": "\"And is satisfied...\" Oh, ouch, ouch. Are you all right? Could I get a little, uh..."
     },
     {
-      "name": "",
-      "line": "\"And is satisfied...\""
+      "name": "Jack",
+      "line": "I'm here to talk to you television about the monetizing of today broadcast."
     },
     {
-      "name": "",
-      "line": "Oh, ouch, ouch. Are you all right?"
-    },
-    {
-      "name": "",
-      "line": "Could I get a little, uh..."
-    },
-    {
-      "name": "",
-      "line": "I'm here to talk to you television"
-    },
-    {
-      "name": "",
-      "line": "about the monetizing of today broadcast."
-    },
-    {
-      "name": "",
+      "name": "Jack",
       "line": "Was any of that usable?"
     },
     {
-      "name": "",
+      "name": "Man",
       "line": "G.E. promo 129."
     },
     {
-      "name": "",
-      "line": "It's called racial integration."
+      "name": "Jack",
+      "line": "It's called racial integration. No, that's not right, is it?"
     },
     {
-      "name": "",
-      "line": "No, that's not right, is it?"
-    },
-    {
-      "name": "",
+      "name": "Jack",
       "line": "It's called product intergor... \"intergortion\"?"
     },
     {
-      "name": "",
-      "line": "...the way we monetize broadcast television."
+      "name": "Jack",
+      "line": "...the way we monetize broadcast television. How does it work?"
     },
     {
-      "name": "",
-      "line": "How does it work?"
+      "name": "Jack",
+      "line": "Oh. Could we turn off the phones, please? Oh, I'm sorry. I'm sorry. That's me."
     },
     {
-      "name": "",
-      "line": "Oh."
+      "name": "Jack",
+      "line": "Let me turn this thing off. I think I just took a picture."
     },
     {
-      "name": "",
-      "line": "Could we turn off the phones, please?"
+      "name": "Jack",
+      "line": "I'm sorry, everybody, there's a pigeon. Shoo!"
     },
     {
-      "name": "",
-      "line": "Oh, I'm sorry. I'm sorry. That's me."
-    },
-    {
-      "name": "",
-      "line": "Let me turn this thing off."
-    },
-    {
-      "name": "",
-      "line": "I think I just took a picture."
-    },
-    {
-      "name": "",
-      "line": "I'm sorry, everybody, there's a pigeon."
-    },
-    {
-      "name": "",
-      "line": "Shoo!"
-    },
-    {
-      "name": "",
+      "name": "Jack",
       "line": "...purchases, and is satisfied with... Oh."
     },
     {
-      "name": "",
+      "name": "Man",
       "line": "142."
     },
     {
-      "name": "",
-      "line": "...in upward revenue-stream dynamics..."
+      "name": "Jack",
+      "line": "...in upward revenue-stream dynamics... for all of us."
     },
     {
-      "name": "",
-      "line": "for all of us."
-    },
-    {
-      "name": "",
+      "name": "Director",
       "line": "Cut. That's a wrap."
     },
     {
-      "name": "",
-      "line": "Ha. That was fun, you guys."
+      "name": "Jack",
+      "line": "Ha. That was fun, you guys. It didn't feel like five days, did it?"
     },
     {
-      "name": "",
-      "line": "It didn't feel like five days, did it?"
-    },
-    {
-      "name": "",
+      "name": "Director",
       "line": "Uh, no... No."
     },
     {
-      "name": "",
+      "name": "Jack",
       "line": "Everybody have a good weekend."
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "And we'll be right back."
     },
     {
-      "name": "",
-      "line": "Jenna to the stage, please."
-    },
-    {
-      "name": "",
-      "line": "Jenna to the stage for \"Muffin Top.\""
+      "name": "PA",
+      "line": "Jenna to the stage, please. Jenna to the stage for \"Muffin Top.\""
     },
     {
       "name": "",
