@@ -4,12 +4,12 @@ import requests
 import re
 import json
 
-file_name = '01x06'
+file_name = '01x07'
 season = 1
-episode = 6
-title = 'Jack Meets Dennis'
+episode = 7
+title = 'Tracy Does Conan'
 
-html_text = requests.get('https://transcripts.foreverdreaming.org/viewtopic.php?f=1083&t=46644').text
+html_text = requests.get('https://transcripts.foreverdreaming.org/viewtopic.php?f=1083&t=46645').text
 soup = BeautifulSoup(html_text, 'lxml')
 
 chunks = soup.find('div', attrs={'class': 'postbody'})
