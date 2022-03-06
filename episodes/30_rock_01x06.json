@@ -4,1915 +4,1135 @@
   "title": "Jack Meets Dennis",
   "script": [
     {
-      "name": "",
+      "name": "Liz",
       "line": "It's so sweet of you to walk me to work today."
     },
     {
-      "name": "",
+      "name": "Dennis",
       "line": "You're my girl, right? I take care of you, huh?"
     },
     {
-      "name": "",
-      "line": "Who knows? Maybe we'll see Natalie Morales, you know?"
+      "name": "Dennis",
+      "line": "Who knows? Maybe we'll see Natalie Morales, you know? That little firecracker. She gets my blood running south of the border."
     },
     {
-      "name": "",
-      "line": "That little firecracker."
-    },
-    {
-      "name": "",
-      "line": "She gets my blood running south of the border."
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "That is less sweet."
     },
     {
-      "name": "",
-      "line": "I'm gonna stop by tonight."
+      "name": "Dennis",
+      "line": "I'm gonna stop by tonight. Maybe I'll, uh, pick up some Chinese."
     },
     {
-      "name": "",
-      "line": "Maybe I'll, uh, pick up some Chinese."
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "Aw. You said \"Chinese\" instead of something offensive."
     },
     {
-      "name": "",
-      "line": "I told you, losing you last year changed me, huh?"
+      "name": "Dennis",
+      "line": "I told you, losing you last year changed me, huh? It made me more, um... more mature. Come here."
     },
     {
-      "name": "",
-      "line": "It made me more, um... more mature."
+      "name": "Liz",
+      "line": "Ow. That really hurts! Dennis!"
     },
     {
-      "name": "",
-      "line": "Come here."
-    },
-    {
-      "name": "",
-      "line": "Ow. That really hurts!"
-    },
-    {
-      "name": "",
-      "line": "Dennis!"
-    },
-    {
-      "name": "",
+      "name": "Jenna",
       "line": "You're back with Dennis?"
     },
     {
-      "name": "",
-      "line": "Yeah. I'm back with Dennis."
+      "name": "Liz",
+      "line": "Yeah. I'm back with Dennis. Don't look at me with your eyebrows all up. It's so annoying."
     },
     {
-      "name": "",
-      "line": "Don't look at me with your eyebrows all up."
+      "name": "Jenna",
+      "line": "Oh, yes. I'm annoying. Not the man who honked your boobs on the jumbo screen."
     },
     {
-      "name": "",
-      "line": "It's so annoying."
-    },
-    {
-      "name": "",
-      "line": "Oh, yes. I'm annoying."
-    },
-    {
-      "name": "",
-      "line": "Not the man who honked your boobs on the jumbo screen."
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "That was before, and it was the playoffs."
     },
     {
-      "name": "",
-      "line": "Does he still work at that beeper store?"
+      "name": "Jenna",
+      "line": "Does he still work at that beeper store? What is it, Beeper King?"
     },
     {
-      "name": "",
-      "line": "What is it, Beeper King?"
+      "name": "Liz",
+      "line": "He is the king now. The old Beeper King retired. Well, technically, he shot himself. But Dennis took over, and now he's the only beeper salesman left in Manhattan, which is cool."
     },
     {
-      "name": "",
-      "line": "He is the king now. The old Beeper King retired."
-    },
-    {
-      "name": "",
-      "line": "Well, technically, he shot himself."
-    },
-    {
-      "name": "",
-      "line": "But Dennis took over,"
-    },
-    {
-      "name": "",
-      "line": "and now he's the only beeper salesman left in Manhattan,"
-    },
-    {
-      "name": "",
-      "line": "which is cool."
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "You're doing the eyebrow thing again."
     },
     {
-      "name": "",
-      "line": "Because it's Dennis."
+      "name": "Jenna",
+      "line": "Because it's Dennis. Who are you trying to fool? This is me."
     },
     {
-      "name": "",
-      "line": "Who are you trying to fool? This is me."
+      "name": "Liz",
+      "line": "Exactly. You don't get to give dating advice. You sent a letter to Scott Peterson."
     },
     {
-      "name": "",
-      "line": "Exactly. You don't get to give dating advice."
+      "name": "Jenna",
+      "line": "After he dyed his hair and got super thin from all the stress. Are you kidding me? He was smokin'."
     },
     {
-      "name": "",
-      "line": "You sent a letter to Scott Peterson."
-    },
-    {
-      "name": "",
-      "line": "After he dyed his hair"
-    },
-    {
-      "name": "",
-      "line": "and got super thin from all the stress."
-    },
-    {
-      "name": "",
-      "line": "Are you kidding me? He was smokin'."
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "Dennis is a good guy, okay?"
     },
     {
-      "name": "",
+      "name": "Jenna",
       "line": "Not really. So, when did this happen?"
     },
     {
-      "name": "",
-      "line": "Well, last week was my birthday."
+      "name": "Liz",
+      "line": "Well, last week was my birthday. And everyone forgot except Dennis. He called, and we went out, and it wasn't too weird."
     },
     {
-      "name": "",
-      "line": "And everyone forgot except Dennis."
+      "name": "Jenna",
+      "line": "And how was the sex?"
     },
     {
-      "name": "",
-      "line": "He called, and we went out, and it wasn't too weird."
-    },
-    {
-      "name": "",
-      "line": "And how was the s*x?"
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "Fast and only on Saturdays. It's perfect."
     },
     {
-      "name": "",
-      "line": "Did you see this?"
+      "name": "Tracy",
+      "line": "Did you see this? It's horrible."
     },
     {
-      "name": "",
-      "line": "It's horrible."
+      "name": "Tracy",
+      "line": "They're printing libel about me again. Libel, Liz Lemon!"
     },
     {
-      "name": "",
-      "line": "They're printing libel about me again."
+      "name": "Liz",
+      "line": "Ugh! \"Normal.\" How dare they?"
     },
     {
-      "name": "",
-      "line": "Libel, Liz Lemon!"
+      "name": "Tracy",
+      "line": "That's what I'm saying. That's character assassination."
     },
     {
-      "name": "",
-      "line": "Ugh! \"Normal.\""
+      "name": "Tracy",
+      "line": "That's not normal. It only looks like I'm walking out of a Starbucks, when actually I'm doing the robot going backwards into a Starbucks. And I don't even know whose dog that is."
     },
     {
-      "name": "",
-      "line": "How dare they?"
-    },
-    {
-      "name": "",
-      "line": "That's what I'm saying."
-    },
-    {
-      "name": "",
-      "line": "That's character assassination."
-    },
-    {
-      "name": "",
-      "line": "That's not normal."
-    },
-    {
-      "name": "",
-      "line": "It only looks like I'm walking out of a Starbucks,"
-    },
-    {
-      "name": "",
-      "line": "when actually I'm doing the robot"
-    },
-    {
-      "name": "",
-      "line": "going backwards into a Starbucks."
-    },
-    {
-      "name": "",
-      "line": "And I don't even know whose dog that is."
-    },
-    {
-      "name": "",
+      "name": "Tracy",
       "line": "Yes, I steal dogs."
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "What is the problem?"
     },
     {
       "name": "",
-      "line": "I can't be normal. If I'm normal, I'm boring."
+      "line": "I can't be normal. If I'm normal, I'm boring. If I'm boring, I'm not a movie star. If I'm not a movie star, then I'm poor. And poor people can't afford to pay back the $75,000 in cash they owe Quincy Jones."
     },
     {
-      "name": "",
-      "line": "If I'm boring, I'm not a movie star."
+      "name": "Liz",
+      "line": "Wow. Talking to that guy is like looking in a mirror, huh?"
     },
     {
-      "name": "",
-      "line": "If I'm not a movie star, then I'm poor."
+      "name": "Jenna",
+      "line": "Well, my armpit rash is back. Oh, my God, Jack. What are you doing in wardrobe?"
     },
     {
-      "name": "",
-      "line": "And poor people can't afford to pay back"
-    },
-    {
-      "name": "",
-      "line": "the $75,000 in cash they owe Quincy Jones."
-    },
-    {
-      "name": "",
-      "line": "Wow."
-    },
-    {
-      "name": "",
-      "line": "Talking to that guy is like looking in a mirror, huh?"
-    },
-    {
-      "name": "",
-      "line": "Well, my armpit rash is back."
-    },
-    {
-      "name": "",
-      "line": "Oh, my God, Jack. What are you doing in wardrobe?"
-    },
-    {
-      "name": "",
+      "name": "Jack",
       "line": "The latest research is in. Our audience doesn't like green."
     },
     {
-      "name": "",
+      "name": "Jenna",
       "line": "Oh, that's too bad. I like green."
     },
     {
-      "name": "",
-      "line": "Research doesn't lie, Jenna."
+      "name": "Jack",
+      "line": "Research doesn't lie, Jenna. It lets us know what we're thinking... what's too boring, what's too gay, what's too old."
     },
     {
-      "name": "",
-      "line": "It lets us know what we're thinking..."
-    },
-    {
-      "name": "",
-      "line": "what's too boring, what's too gay, what's too old."
-    },
-    {
-      "name": "",
+      "name": "Jenna",
       "line": "What's too old?"
     },
     {
-      "name": "",
-      "line": "That's a very good question. How old are you? I'm 29."
+      "name": "Jack",
+      "line": "That's a very good question. How old are you?."
     },
     {
-      "name": "",
-      "line": "What year were you born? 1977."
+      "name": "Jenna",
+      "line": "I'm 29"
     },
     {
-      "name": "",
-      "line": "When did you graduate high school? '94."
+      "name": "Jack",
+      "line": "What year were you born?."
     },
     {
-      "name": "",
-      "line": "When do you turn 40? 2017."
+      "name": "Jenna",
+      "line": "1977"
     },
     {
-      "name": "",
-      "line": "Junior high crush? Kirk Cameron."
+      "name": "Jack",
+      "line": "When did you graduate high school?."
     },
     {
-      "name": "",
-      "line": "Prom theme? \"Motownphilly,\" Boyz II Men."
+      "name": "Jenna",
+      "line": "'94"
     },
     {
-      "name": "",
-      "line": "What movie did you lose your virginity at? \"Arachnophobia.\""
+      "name": "Jack",
+      "line": "When do you turn 40?."
     },
     {
-      "name": "",
+      "name": "Jenna",
+      "line": "2017"
+    },
+    {
+      "name": "Jack",
+      "line": "Junior high crush?."
+    },
+    {
+      "name": "Jenna",
+      "line": "Kirk Cameron"
+    },
+    {
+      "name": "Jack",
+      "line": "Prom theme?."
+    },
+    {
+      "name": "Jenna",
+      "line": "\"Motownphilly,\" Boyz II Men"
+    },
+    {
+      "name": "Jack",
+      "line": "What movie did you lose your virginity at?"
+    },
+    {
+      "name": "Jenna",
+      "line": "\"Arachnophobia.\""
+    },
+    {
+      "name": "Jack",
       "line": "Theater or drive-in?"
     },
     {
-      "name": "",
+      "name": "Jenna",
       "line": "What's a drive-in?"
     },
     {
-      "name": "",
-      "line": "Of course."
+      "name": "Jack",
+      "line": "Of course. I don't know why I bothered to ask."
     },
     {
-      "name": "",
-      "line": "I don't know why I bothered to ask."
+      "name": "Jack",
+      "line": "I can tell just from your physical appearance that you're obviously... 29."
     },
     {
-      "name": "",
-      "line": "I can tell just from your physical appearance"
+      "name": "Liz",
+      "line": "So, these page numbers, when done correctly, should be sequential."
     },
     {
-      "name": "",
-      "line": "that you're obviously..."
+      "name": "Cerie",
+      "line": "Oh. Oh, Josh, Liz Taylor's assistant called. They wanted the address here to send you something."
     },
     {
-      "name": "",
-      "line": "29."
+      "name": "Josh",
+      "line": "That's awesome! She must have seen my impression of her."
     },
     {
-      "name": "",
-      "line": "So, these page numbers, when done correctly,"
+      "name": "Frank",
+      "line": "Sounds like someone loves Liz Taylor."
     },
     {
-      "name": "",
-      "line": "should be sequential."
+      "name": "Josh",
+      "line": "I do"
     },
     {
-      "name": "",
-      "line": "Oh. Oh, Josh, Liz Taylor's assistant called."
-    },
-    {
-      "name": "",
-      "line": "They wanted the address here to send you something."
-    },
-    {
-      "name": "",
-      "line": "That's awesome!"
-    },
-    {
-      "name": "",
-      "line": "She must have seen my impression of her."
-    },
-    {
-      "name": "",
-      "line": "Sounds like someone loves Liz Taylor. I do."
-    },
-    {
-      "name": "",
+      "name": "Toofer",
       "line": "No, we mean love love."
     },
     {
-      "name": "",
-      "line": "Yeah, like if she walked in right now"
+      "name": "Frank",
+      "line": "Yeah, like if she walked in right now and said she wanted to do it with you, you would."
     },
     {
-      "name": "",
-      "line": "and said she wanted to do it with you, you would."
-    },
-    {
-      "name": "",
+      "name": "Josh",
       "line": "I definitely would."
     },
     {
-      "name": "",
+      "name": "Frank",
       "line": "What?"
     },
     {
-      "name": "",
+      "name": "Jenna",
       "line": "Liz."
     },
     {
-      "name": "",
+      "name": "Josh",
       "line": "I'm totally serious. I mean, wouldn't you guys?"
     },
     {
-      "name": "",
+      "name": "Jenna",
       "line": "Uh, Jack asked me how old I am."
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "What did you say?"
     },
     {
-      "name": "",
+      "name": "Jenna",
       "line": "29."
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "Jenna, relax."
     },
     {
-      "name": "",
+      "name": "Jenna",
       "line": "I cannot and will not relax, Liz."
     },
     {
-      "name": "",
-      "line": "I am an actress,"
+      "name": "Jenna",
+      "line": "I am an actress, and when someone asks an actress how old she is, it's more statement than question."
     },
     {
-      "name": "",
-      "line": "and when someone asks an actress how old she is,"
+      "name": "Cerie",
+      "line": "When my mom's feeling old, she goes to this guy on 71 st Street. But she's old. She's like 38."
     },
     {
-      "name": "",
-      "line": "it's more statement than question."
-    },
-    {
-      "name": "",
-      "line": "When my mom's feeling old,"
-    },
-    {
-      "name": "",
-      "line": "she goes to this guy on 71 st Street."
-    },
-    {
-      "name": "",
-      "line": "But she's old. She's like 38."
-    },
-    {
-      "name": "",
+      "name": "Jenna",
       "line": "I'm gonna be sick."
     },
     {
-      "name": "",
-      "line": "\u00df Betcha he reads \u00df"
+      "name": "Liz",
+      "line": "Betcha he reads Betcha she sews Betcha they've made me a closet of clothes"
     },
     {
-      "name": "",
-      "line": "\u00df Betcha she sews \u00df"
-    },
-    {
-      "name": "",
-      "line": "\u00df Betcha they've made me a closet of clothes \u00df"
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "God."
     },
     {
-      "name": "",
-      "line": "Lemon, what tragedy happened in your life"
+      "name": "Jack",
+      "line": "Lemon, what tragedy happened in your life that you insist upon punishing yourself with all this... mediocrity?"
     },
     {
-      "name": "",
-      "line": "that you insist upon punishing yourself"
-    },
-    {
-      "name": "",
-      "line": "with all this... mediocrity?"
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "What, 'cause I'm eating a turkey sub?"
     },
     {
-      "name": "",
-      "line": "Your turkey sub, your clothes,"
+      "name": "Jack",
+      "line": "Your turkey sub, your clothes, the fact that a woman of your resources and position lives like some boxcar hobo."
     },
     {
-      "name": "",
-      "line": "the fact that a woman of your resources and position"
+      "name": "Jack",
+      "line": "Or maybe it's the fact that while I'm saying all this, you have a piece of lettuce stuck in your hair."
     },
     {
-      "name": "",
-      "line": "lives like some boxcar hobo."
+      "name": "Jack",
+      "line": "This is the unlisted number of Stone, the most exclusive restaurant in the city, currently."
     },
     {
-      "name": "",
-      "line": "Or maybe it's the fact that while I'm saying all this,"
+      "name": "Jack",
+      "line": "I think it's time that you start enjoying some of the finer things in life."
     },
     {
-      "name": "",
-      "line": "you have a piece of lettuce stuck in your hair."
-    },
-    {
-      "name": "",
-      "line": "This is the unlisted number of Stone,"
-    },
-    {
-      "name": "",
-      "line": "the most exclusive restaurant in the city, currently."
-    },
-    {
-      "name": "",
-      "line": "I think it's time that you start"
-    },
-    {
-      "name": "",
-      "line": "enjoying some of the finer things in life."
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "Completely unsolicited and inappropriate."
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "I will only accept it because I love food."
     },
     {
-      "name": "",
-      "line": "Do you know why Jack Welch is the greatest leader"
+      "name": "Jack",
+      "line": "Do you know why Jack Welch is the greatest leader since the Pharaohs?"
     },
     {
-      "name": "",
-      "line": "since the Pharaohs?"
+      "name": "Jack",
+      "line": "Because he didn't only involve himself in our work lives, but our personal lives as well."
     },
     {
-      "name": "",
-      "line": "Because he didn't only involve himself in our work lives,"
+      "name": "Jack",
+      "line": "He introduced us to the finest booze, the most restrictive country clubs. He gave us the names of the most discrete private investigators to spy on our ex-wives. He held our hands during our triumphs and our Senate hearings."
     },
     {
-      "name": "",
-      "line": "but our personal lives as well."
-    },
-    {
-      "name": "",
-      "line": "He introduced us to the finest booze,"
-    },
-    {
-      "name": "",
-      "line": "the most restrictive country clubs."
-    },
-    {
-      "name": "",
-      "line": "He gave us the names of the most discrete private investigators"
-    },
-    {
-      "name": "",
-      "line": "to spy on our ex-wives."
-    },
-    {
-      "name": "",
-      "line": "He held our hands during our triumphs"
-    },
-    {
-      "name": "",
-      "line": "and our Senate hearings."
-    },
-    {
-      "name": "",
+      "name": "Jack",
       "line": "I want to hold your hand, Lemon."
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "Yikes."
     },
     {
-      "name": "",
-      "line": "This is a perfect example."
+      "name": "Jack",
+      "line": "This is a perfect example. You have a million-dollar view. But you refuse to acknowledge that there's a whole world out there."
     },
     {
-      "name": "",
-      "line": "You have a million-dollar view."
+      "name": "Jack",
+      "line": "Oh, my. There appears to be a gentleman making passionate, anguine love to himself."
     },
     {
-      "name": "",
-      "line": "But you refuse to acknowledge"
+      "name": "Liz",
+      "line": "Yeah, I know. That's why I closed the blinds in the first place."
     },
     {
-      "name": "",
-      "line": "that there's a whole world out there."
+      "name": "Jack",
+      "line": "Right in his office. Huh."
     },
     {
-      "name": "",
-      "line": "Oh, my."
+      "name": "Jack",
+      "line": "Lemon, I like to think of myself as a winner, and I like to surround myself with winners. I see potential in you."
     },
     {
-      "name": "",
-      "line": "There appears to be a gentleman"
+      "name": "Jack",
+      "line": "Let me be your Jack Welch. Let me be your mentor."
     },
     {
-      "name": "",
-      "line": "making passionate, anguine love to himself."
-    },
-    {
-      "name": "",
-      "line": "Yeah, I know."
-    },
-    {
-      "name": "",
-      "line": "That's why I closed the blinds in the first place."
-    },
-    {
-      "name": "",
-      "line": "Right in his office."
-    },
-    {
-      "name": "",
-      "line": "Huh."
-    },
-    {
-      "name": "",
-      "line": "Lemon, I like to think of myself as a winner,"
-    },
-    {
-      "name": "",
-      "line": "and I like to surround myself with winners."
-    },
-    {
-      "name": "",
-      "line": "I see potential in you."
-    },
-    {
-      "name": "",
-      "line": "Let me be your Jack Welch."
-    },
-    {
-      "name": "",
-      "line": "Let me be your mentor."
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "No, thank you."
     },
     {
-      "name": "",
+      "name": "Jack",
       "line": "That is unfortunate."
     },
     {
-      "name": "",
-      "line": "You've, uh, got to admire"
+      "name": "Jack",
+      "line": "You've, uh, got to admire his persistence and stamina, though. Am I wrong, or is he in the middle of a staff meeting?"
     },
     {
-      "name": "",
-      "line": "his persistence and stamina, though."
-    },
-    {
-      "name": "",
-      "line": "Am I wrong, or is he in the middle of a staff meeting?"
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "Maybe you should be his mentor."
     },
     {
-      "name": "",
-      "line": "Obviously, he doesn't need one."
+      "name": "Jack",
+      "line": "Obviously, he doesn't need one. He's got it all figured out."
     },
     {
-      "name": "",
-      "line": "He's got it all figured out."
+      "name": "Dennis",
+      "line": "I got one for you. See the old guy over there with the girl? Mistress or daughter?"
     },
     {
-      "name": "",
-      "line": "I got one for you."
-    },
-    {
-      "name": "",
-      "line": "See the old guy over there with the girl?"
-    },
-    {
-      "name": "",
-      "line": "Mistress or daughter?"
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "Oh, my God. I hope it's his daughter."
     },
     {
-      "name": "",
+      "name": "Dennis",
       "line": "Yeah. Me too."
     },
     {
-      "name": "",
-      "line": "Oh, my God!"
+      "name": "Liz",
+      "line": "Oh, my God! I hope it's his mistress. Oh, that is just wrong."
     },
     {
-      "name": "",
-      "line": "I hope it's his mistress."
-    },
-    {
-      "name": "",
-      "line": "Oh, that is just wrong."
-    },
-    {
-      "name": "",
+      "name": "Dennis",
       "line": "Hey, 007, how about some more rolls over here, huh?"
     },
     {
-      "name": "",
-      "line": "Oh, my, my. What a pleasant surprise."
+      "name": "Jack",
+      "line": "Oh, my, my. What a pleasant surprise. Lemon. And you brought a man."
     },
     {
-      "name": "",
-      "line": "Lemon. And you brought a man."
+      "name": "Jack",
+      "line": "Jack Donaghy. And this is my friend Anastasia. How are you?"
     },
     {
-      "name": "",
-      "line": "Jack Donaghy."
-    },
-    {
-      "name": "",
-      "line": "And this is my friend Anastasia. How are you?"
-    },
-    {
-      "name": "",
+      "name": "Dennis",
       "line": "Hi. Dennis Duffy, Beeper King."
     },
     {
-      "name": "",
+      "name": "Jack",
       "line": "The Beeper King. Really?"
     },
     {
-      "name": "",
-      "line": "Uh, Dennis has his own business."
+      "name": "Liz",
+      "line": "Uh, Dennis has his own business. Yes, he's an entrepreneur. He's very successful."
     },
     {
-      "name": "",
-      "line": "Yes, he's an entrepreneur. He's very successful."
-    },
-    {
-      "name": "",
+      "name": "Dennis",
       "line": "You probably see my ads on the 7 train, right?"
     },
     {
-      "name": "",
-      "line": "I didn't know they served chicken nuggets"
+      "name": "Jack",
+      "line": "I didn't know they served chicken nuggets at this restaurant."
     },
     {
-      "name": "",
-      "line": "at this restaurant."
+      "name": "Liz",
+      "line": "It's cod. It's, uh... They made it special. Dennis has some dietary restrictions."
     },
     {
-      "name": "",
-      "line": "It's cod. It's, uh... They made it special."
+      "name": "Dennis",
+      "line": "Actually, I'm allergic to all fish unless it's fried, you know?"
     },
     {
-      "name": "",
-      "line": "Dennis has some dietary restrictions."
-    },
-    {
-      "name": "",
-      "line": "Actually, I'm allergic to all fish"
-    },
-    {
-      "name": "",
-      "line": "unless it's fried, you know?"
-    },
-    {
-      "name": "",
+      "name": "Jack",
       "line": "That's a sharp tie you've got there, Dennis."
     },
     {
-      "name": "",
+      "name": "Dennis",
       "line": "That douche bag up front made me wear it."
     },
     {
-      "name": "",
-      "line": "Does he know you're the Beeper King? I don't think so."
+      "name": "Jack",
+      "line": "Does he know you're the Beeper King?"
     },
     {
-      "name": "",
-      "line": "Anyway, thanks for the hookup."
+      "name": "Dennis",
+      "line": "I don't think so."
     },
     {
-      "name": "",
-      "line": "This is clearly the nicest restaurant we've ever been to."
+      "name": "Liz",
+      "line": "Anyway, thanks for the hookup. This is clearly the nicest restaurant we've ever been to."
     },
     {
-      "name": "",
-      "line": "Oh, hold on a second."
+      "name": "Dennis",
+      "line": "Oh, hold on a second. This place ain't that nice, all right? It's got rats and roaches like every other restaurant."
     },
     {
-      "name": "",
-      "line": "This place ain't that nice, all right?"
-    },
-    {
-      "name": "",
-      "line": "It's got rats and roaches like every other restaurant."
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "No rat talk tonight, okay?"
     },
     {
-      "name": "",
-      "line": "Do you know there are 17 rats per person in Manhattan?"
+      "name": "Dennis",
+      "line": "Do you know there are 17 rats per person in Manhattan? You eat a pound of rat crap every year without even knowing it."
     },
     {
-      "name": "",
-      "line": "You eat a pound of rat crap every year"
-    },
-    {
-      "name": "",
-      "line": "without even knowing it."
-    },
-    {
-      "name": "",
+      "name": "Jack",
       "line": "I think I read about that in The New Yorker."
     },
     {
-      "name": "",
-      "line": "Anyway, we'll leave you to your meal."
+      "name": "Jack",
+      "line": "Anyway, we'll leave you to your meal. I hope you enjoy the, uh, choices that you've made."
     },
     {
-      "name": "",
-      "line": "I hope you enjoy the, uh, choices that you've made."
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "Stop it."
     },
     {
-      "name": "",
-      "line": "And that former call girl went on"
+      "name": "Kenneth",
+      "line": "And that former call girl went on to become one of NBC's biggest news anchors."
     },
     {
-      "name": "",
-      "line": "to become one of NBC's biggest news anchors."
+      "name": "Kenneth",
+      "line": "Star coming. Wall hug, everybody."
     },
     {
-      "name": "",
-      "line": "Star coming."
+      "name": "Lady",
+      "line": "That's Tracy Jordan! He seems like such a nice, normal young man."
     },
     {
-      "name": "",
-      "line": "Wall hug, everybody."
-    },
-    {
-      "name": "",
-      "line": "That's Tracy Jordan!"
-    },
-    {
-      "name": "",
-      "line": "He seems like such a nice, normal young man."
-    },
-    {
-      "name": "",
+      "name": "Tracy",
       "line": "Aah!"
     },
     {
-      "name": "",
+      "name": "Kenneth",
       "line": "Let's keep going, you guys. Let's keep going."
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "I enjoyed the restaurant. Thank you."
     },
     {
-      "name": "",
-      "line": "Just say it."
+      "name": "Liz",
+      "line": "Just say it. Just say what you're dying to say."
     },
     {
-      "name": "",
-      "line": "Just say what you're dying to say."
+      "name": "Liz",
+      "line": "Dennis is nice to me, okay? He fixed my toilet. He broke it first, but he fixed it."
     },
     {
-      "name": "",
-      "line": "Dennis is nice to me, okay? He fixed my toilet."
-    },
-    {
-      "name": "",
-      "line": "He broke it first, but he fixed it."
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "And he loves hockey, and I'm... figuring it out."
     },
     {
-      "name": "",
-      "line": "And it's easy. I get a lot of work done."
+      "name": "Liz",
+      "line": "And it's easy. I get a lot of work done. I don't have time for a personal life, okay?"
     },
     {
-      "name": "",
-      "line": "I don't have time for a personal life, okay?"
+      "name": "Liz",
+      "line": "I can't just go to Central Park and join the singles' touch-football league."
     },
     {
-      "name": "",
-      "line": "I can't just go to Central Park"
+      "name": "Liz",
+      "line": "Like I'd want to, anyway. People on those posters always laughing in their sweaters. God, who are they fooling?"
     },
     {
-      "name": "",
-      "line": "and join the singles' touch-football league."
+      "name": "Liz",
+      "line": "Oh, okay, you're not gonna say anything to me because I rejected you as a mentor?"
     },
     {
-      "name": "",
-      "line": "Like I'd want to, anyway."
+      "name": "Liz",
+      "line": "Who cares? I have a lot of friends I can talk to about my life."
     },
     {
-      "name": "",
-      "line": "People on those posters always laughing in their sweaters."
+      "name": "Liz",
+      "line": "The bottom line is, Dennis is my boyfriend because he inquired. He was the only applicant. And I am not... ...doing great."
     },
     {
-      "name": "",
-      "line": "God, who are they fooling?"
-    },
-    {
-      "name": "",
-      "line": "Oh, okay, you're not gonna say anything to me"
-    },
-    {
-      "name": "",
-      "line": "because I rejected you as a mentor?"
-    },
-    {
-      "name": "",
-      "line": "Who cares?"
-    },
-    {
-      "name": "",
-      "line": "I have a lot of friends I can talk to about my life."
-    },
-    {
-      "name": "",
-      "line": "The bottom line is,"
-    },
-    {
-      "name": "",
-      "line": "Dennis is my boyfriend because he inquired."
-    },
-    {
-      "name": "",
-      "line": "He was the only applicant."
-    },
-    {
-      "name": "",
-      "line": "And I am not..."
-    },
-    {
-      "name": "",
-      "line": "...doing great."
-    },
-    {
-      "name": "",
+      "name": "Jenna",
       "line": "Come in."
     },
     {
-      "name": "",
-      "line": "Hey, do you have a minute? I need to talk to you about..."
+      "name": "Liz",
+      "line": "Hey, do you have a minute? I need to talk to you about... Aah! What did you do to yourself?"
     },
     {
-      "name": "",
-      "line": "Aah! What did you do to yourself?"
+      "name": "Jenna",
+      "line": "Me? Oh, nothing. Just getting more rest. Drinking more water."
     },
     {
-      "name": "",
-      "line": "Me? Oh, nothing."
+      "name": "Liz",
+      "line": "Really? This water... does someone boil it first and throw it in your face?"
     },
     {
-      "name": "",
-      "line": "Just getting more rest. Drinking more water."
+      "name": "Jenna",
+      "line": "Okay, I had a little Botox and some collagen and a chemical peel and something with shark DNA. Admit it. I look 10 years younger."
     },
     {
-      "name": "",
-      "line": "Really?"
-    },
-    {
-      "name": "",
-      "line": "This water... does someone boil it first"
-    },
-    {
-      "name": "",
-      "line": "and throw it in your face?"
-    },
-    {
-      "name": "",
-      "line": "Okay, I had a little Botox and some collagen"
-    },
-    {
-      "name": "",
-      "line": "and a chemical peel and something with shark DNA."
-    },
-    {
-      "name": "",
-      "line": "Admit it. I look 10 years younger."
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "No, younger even. You look like a fetus."
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "I came here to talk to you about my problems with Dennis."
     },
     {
-      "name": "",
-      "line": "Oh, I can't right now, honey."
+      "name": "Jenna",
+      "line": "Oh, I can't right now, honey. If I don't do my facial exercises, I could wind up looking weird."
     },
     {
-      "name": "",
-      "line": "If I don't do my facial exercises,"
-    },
-    {
-      "name": "",
-      "line": "I could wind up looking weird."
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "I just mentioned Dennis, and your eyebrows didn't go up."
     },
     {
-      "name": "",
+      "name": "Jenna",
       "line": "They didn't?"
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "No."
     },
     {
-      "name": "",
+      "name": "Jenna",
       "line": "How about now?"
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "Unh-unh."
     },
     {
-      "name": "",
+      "name": "Jenna",
       "line": "Anything?"
     },
     {
-      "name": "",
+      "name": "Dennis",
       "line": "Hey, what's up, baby? Liz around?"
     },
     {
-      "name": "",
+      "name": "Cerie",
       "line": "She should be back soon. Is that a present for her?"
     },
     {
-      "name": "",
-      "line": "Yeah."
+      "name": "Dennis",
+      "line": "Yeah. If she doesn't get back soon, I'm poking air holes in it."
     },
     {
-      "name": "",
-      "line": "If she doesn't get back soon, I'm poking air holes in it."
+      "name": "Dennis",
+      "line": "Excuse me. I couldn't help but notice that, uh, none of you are wearing beepers."
     },
     {
-      "name": "",
-      "line": "Excuse me."
-    },
-    {
-      "name": "",
-      "line": "I couldn't help but notice"
-    },
-    {
-      "name": "",
-      "line": "that, uh, none of you are wearing beepers."
-    },
-    {
-      "name": "",
+      "name": "Frank",
       "line": "You sell beepers?"
     },
     {
-      "name": "",
+      "name": "Dennis",
       "line": "I sell a way of life, my friend."
     },
     {
-      "name": "",
+      "name": "Frank",
       "line": "Cool. I could use some ironic accessories."
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "What are you doing here?"
     },
     {
-      "name": "",
+      "name": "Dennis",
       "line": "Hey. I brought you a present."
     },
     {
-      "name": "",
-      "line": "Uh-oh."
+      "name": "Dennis",
+      "line": "Uh-oh. Oh, no. It got out. If anyone sees a salamander, it's Liz's, okay?"
     },
     {
-      "name": "",
-      "line": "Oh, no. It got out."
+      "name": "Liz",
+      "line": "No. I don't want a salamander. And I don't want you here selling beepers."
     },
     {
-      "name": "",
-      "line": "If anyone sees a salamander, it's Liz's, okay?"
+      "name": "Dennis",
+      "line": "Why not? I mean, you work in a business. Businesspeople need beepers."
     },
     {
-      "name": "",
-      "line": "No. I don't want a salamander."
+      "name": "Liz",
+      "line": "No, they need cellphones."
     },
     {
-      "name": "",
-      "line": "And I don't want you here selling beepers."
+      "name": "Dennis",
+      "line": "Oh, yeah, for now. But the beeper's gonna be making a comeback. Technology's cyclical."
     },
     {
-      "name": "",
-      "line": "Why not? I mean, you work in a business."
-    },
-    {
-      "name": "",
-      "line": "Businesspeople need beepers."
-    },
-    {
-      "name": "",
-      "line": "No, they need cellphones. Oh, yeah, for now."
-    },
-    {
-      "name": "",
-      "line": "But the beeper's gonna be making a comeback."
-    },
-    {
-      "name": "",
-      "line": "Technology's cyclical."
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "No, technology is not cyclical."
     },
     {
-      "name": "",
-      "line": "I thought I recognized that voice."
+      "name": "Jack",
+      "line": "I thought I recognized that voice. Dennis, how the heck are you? Did you enjoy that restaurant?"
     },
     {
-      "name": "",
-      "line": "Dennis, how the heck are you?"
+      "name": "Dennis",
+      "line": "No. I think I was right about that place. We saw a whole nest of rats when we were leaving."
     },
     {
-      "name": "",
-      "line": "Did you enjoy that restaurant?"
+      "name": "Liz",
+      "line": "No, we didn't."
     },
     {
-      "name": "",
-      "line": "No. I think I was right about that place."
+      "name": "Dennis",
+      "line": "Yeah, I did. I didn't want to tell you 'cause I knew you'd freak out."
     },
     {
-      "name": "",
-      "line": "We saw a whole nest of rats when we were leaving."
-    },
-    {
-      "name": "",
-      "line": "No, we didn't. Yeah, I did."
-    },
-    {
-      "name": "",
-      "line": "I didn't want to tell you 'cause I knew you'd freak out."
-    },
-    {
-      "name": "",
+      "name": "Dennis",
       "line": "Actually, I think I saw a rat king."
     },
     {
-      "name": "",
+      "name": "Frank",
       "line": "Aren't rat kings a myth?"
     },
     {
-      "name": "",
+      "name": "Cerie",
       "line": "What's a rat king?"
     },
     {
-      "name": "",
-      "line": "Oh, it's when a bunch of rats are crammed into a tiny space,"
+      "name": "Frank",
+      "line": "Oh, it's when a bunch of rats are crammed into a tiny space, and their tails get all tangled up, and they can't even pull apart."
     },
     {
-      "name": "",
-      "line": "and their tails get all tangled up,"
+      "name": "Dennis",
+      "line": "And then it gets awesome. Eventually their bodies fuse together, and they form a multiheaded live rat king, and we saw one."
     },
     {
-      "name": "",
-      "line": "and they can't even pull apart."
+      "name": "Jack",
+      "line": "I hope you got a picture of that with the camera on your beeper."
     },
     {
-      "name": "",
-      "line": "And then it gets awesome."
+      "name": "Dennis",
+      "line": "Actually, my beeper doesn't have a camera. But it does have a pedometer. Actually, not this one."
     },
     {
-      "name": "",
-      "line": "Eventually their bodies fuse together,"
-    },
-    {
-      "name": "",
-      "line": "and they form a multiheaded live rat king, and we saw one."
-    },
-    {
-      "name": "",
-      "line": "I hope you got a picture of that"
-    },
-    {
-      "name": "",
-      "line": "with the camera on your beeper."
-    },
-    {
-      "name": "",
-      "line": "Actually, my beeper doesn't have a camera."
-    },
-    {
-      "name": "",
-      "line": "But it does have a pedometer."
-    },
-    {
-      "name": "",
-      "line": "Actually, not this one."
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "Listen, I need to talk to you in my office, please."
     },
     {
-      "name": "",
+      "name": "Dennis",
       "line": "Why? Now."
     },
     {
-      "name": "",
+      "name": "Liz",
+      "line": "Now."
+    },
+    {
+      "name": "Tracy",
       "line": "What's up?"
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "Is that a tattoo?"
     },
     {
-      "name": "",
-      "line": "Uh-huh."
+      "name": "Tracy",
+      "line": "Uh-huh. Who normal now? You hear me, America? Who's normal now?"
     },
     {
-      "name": "",
-      "line": "Who normal now?"
-    },
-    {
-      "name": "",
-      "line": "You hear me, America?"
-    },
-    {
-      "name": "",
-      "line": "Who's normal now?"
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "How could you do this to the show?"
     },
     {
-      "name": "",
-      "line": "I got this tattoo for the good of the show."
+      "name": "Tracy",
+      "line": "I got this tattoo for the good of the show. It gives us an edge... the reason why you brought me on. And when you purchase Tracy Jordan, he comes with a tattoo of a biblical dragon from outer space."
     },
     {
-      "name": "",
-      "line": "It gives us an edge... the reason why you brought me on."
-    },
-    {
-      "name": "",
-      "line": "And when you purchase Tracy Jordan,"
-    },
-    {
-      "name": "",
-      "line": "he comes with a tattoo"
-    },
-    {
-      "name": "",
-      "line": "of a biblical dragon from outer space."
-    },
-    {
-      "name": "",
+      "name": "Pete",
       "line": "It's gonna take forever to cover this with makeup."
     },
     {
-      "name": "",
-      "line": "You can't put makeup on my tattoo, Liz Lemon."
+      "name": "Tracy",
+      "line": "You can't put makeup on my tattoo, Liz Lemon. It's in my contract."
     },
     {
-      "name": "",
-      "line": "It's in my contract."
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "No, it's not."
     },
     {
-      "name": "",
+      "name": "Pete",
       "line": "Actually, he's got a pretty weird contract."
     },
     {
-      "name": "",
-      "line": "Great... Jenna looks like a porn-star burn victim,"
+      "name": "Liz",
+      "line": "Great... Jenna looks like a porn-star burn victim, and now this idiot. What are we gonna do?"
     },
     {
-      "name": "",
-      "line": "and now this idiot."
-    },
-    {
-      "name": "",
-      "line": "What are we gonna do?"
-    },
-    {
-      "name": "",
+      "name": "Pete",
       "line": "It's gonna be Josh's busiest show ever."
     },
     {
-      "name": "",
+      "name": "Liz Taylor",
       "line": "Josh."
     },
     {
-      "name": "",
+      "name": "Josh",
       "line": "Ms. Taylor."
     },
     {
-      "name": "",
-      "line": "When your office said you were sending me something,"
+      "name": "Josh",
+      "line": "When your office said you were sending me something, I didn't realize it would be you."
     },
     {
-      "name": "",
-      "line": "I didn't realize it would be you."
+      "name": "Liz Taylor",
+      "line": "But I had to give you this gift... in person, Josh."
     },
     {
-      "name": "",
-      "line": "But I had to give you this gift..."
-    },
-    {
-      "name": "",
-      "line": "in person, Josh."
-    },
-    {
-      "name": "",
+      "name": "Josh",
       "line": "Oh. I'm just glad you weren't offended by my impression."
     },
     {
-      "name": "",
-      "line": "Oh."
+      "name": "Liz Taylor",
+      "line": "Oh. But I was. Deeply."
     },
     {
-      "name": "",
-      "line": "But I was. Deeply."
-    },
-    {
-      "name": "",
+      "name": "Liz Taylor",
       "line": "I'm here to give you the gift of pain."
     },
     {
-      "name": "",
+      "name": "Josh",
       "line": "The gift of what?"
     },
     {
-      "name": "",
+      "name": "Liz Taylor",
       "line": "White Diamonds! Aah!"
     },
     {
-      "name": "",
-      "line": "Okay. Very funny."
+      "name": "Liz",
+      "line": "Okay. Very funny. You bought a pager from Dennis. Will you take it off now, please?"
     },
     {
-      "name": "",
-      "line": "You bought a pager from Dennis."
-    },
-    {
-      "name": "",
-      "line": "Will you take it off now, please?"
-    },
-    {
-      "name": "",
+      "name": "Jack",
       "line": "Oh, I can't. I'm expecting a call from 1983."
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "Look, Dennis takes care of me, okay?"
     },
     {
-      "name": "",
+      "name": "Jack",
       "line": "Liz, I'd like you to meet Howard Jorgensen."
     },
     {
-      "name": "",
+      "name": "Jorgensen",
       "line": "Liz, how do you do?"
     },
     {
-      "name": "",
-      "line": "He's the vice president of locomotives"
+      "name": "Jack",
+      "line": "He's the vice president of locomotives and a rising star at G. E. I thought the two of you had a lot in common."
     },
     {
-      "name": "",
-      "line": "and a rising star at G. E."
-    },
-    {
-      "name": "",
-      "line": "I thought the two of you had a lot in common."
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "You are relentless."
     },
     {
-      "name": "",
-      "line": ""
+      "name": "Liz",
+      "line": "Look, Howard, you're obviously an attractive and confident guy. And at a different time in my life, I could definitely see the two of us together."
     },
     {
-      "name": "",
-      "line": "<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>"
-    },
-    {
-      "name": "",
-      "line": "Look, Howard,"
-    },
-    {
-      "name": "",
-      "line": "you're obviously an attractive and confident guy."
-    },
-    {
-      "name": "",
-      "line": "And at a different time in my life,"
-    },
-    {
-      "name": "",
-      "line": "I could definitely see the two of us together."
-    },
-    {
-      "name": "",
+      "name": "Jorgensen",
       "line": "I'm married with two beautiful kids and a pool."
     },
     {
-      "name": "",
-      "line": "Liz, I wasn't trying to set you up."
+      "name": "Jack",
+      "line": "Liz, I wasn't trying to set you up. I wanted to show you my handiwork. I used to mentor Howard."
     },
     {
-      "name": "",
-      "line": "I wanted to show you my handiwork."
+      "name": "Jorgensen",
+      "line": "I was a lot like you. I dressed poorly, had bad posture, walked around with lettuce in my hair."
     },
     {
-      "name": "",
-      "line": "I used to mentor Howard."
-    },
-    {
-      "name": "",
-      "line": "I was a lot like you."
-    },
-    {
-      "name": "",
-      "line": "I dressed poorly, had bad posture,"
-    },
-    {
-      "name": "",
-      "line": "walked around with lettuce in my hair."
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "Oh, son of a bitch."
     },
     {
-      "name": "",
-      "line": "And I cursed like a sailor."
+      "name": "Jorgensen",
+      "line": "And I cursed like a sailor. But Jack saw potential in me. He changed my life."
     },
     {
-      "name": "",
-      "line": "But Jack saw potential in me. He changed my life."
+      "name": "Jack",
+      "line": "Now Howard's earning seven figures, and he's married to a swell Filipino gal."
     },
     {
-      "name": "",
-      "line": "Now Howard's earning seven figures,"
-    },
-    {
-      "name": "",
-      "line": "and he's married to a swell Filipino gal."
-    },
-    {
-      "name": "",
+      "name": "Jorgensen",
       "line": "Thanks, Jack."
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "Look, I told you, I don't need a mentor."
     },
     {
-      "name": "",
+      "name": "Jack",
       "line": "Fine."
     },
     {
-      "name": "",
-      "line": "Liz Taylor really messed him up."
+      "name": "Pete",
+      "line": "Liz Taylor really messed him up. He might have brain damage."
     },
     {
-      "name": "",
-      "line": "He might have brain damage."
+      "name": "Liz",
+      "line": "Oh, my God. Maybe the musical guest can do some extra songs this week. Who is it?"
     },
     {
-      "name": "",
-      "line": "Oh, my God."
+      "name": "Pete",
+      "line": "James Blunt."
     },
     {
-      "name": "",
-      "line": "Maybe the musical guest can do some extra songs this week."
-    },
-    {
-      "name": "",
-      "line": "Who is it? James Blunt."
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "Mm."
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "No. I said no lettuce."
     },
     {
-      "name": "",
+      "name": "Pete",
       "line": "Are you at that crappy sandwich place again?"
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "Yeah, why is everybody judging all of my choices lately?"
     },
     {
-      "name": "",
-      "line": "This place is fine."
+      "name": "Liz",
+      "line": "This place is fine. It's convenient. It's consistent. I know what I'm getting. It doesn't make me feel bad about my body. Maybe I'm at an age where it's okay for me to settle for this."
     },
     {
-      "name": "",
-      "line": "It's convenient. It's consistent."
-    },
-    {
-      "name": "",
-      "line": "I know what I'm getting."
-    },
-    {
-      "name": "",
-      "line": "It doesn't make me feel bad about my body."
-    },
-    {
-      "name": "",
-      "line": "Maybe I'm at an age where it's okay for me to settle for this."
-    },
-    {
-      "name": "",
+      "name": "Pete",
       "line": "Are we still talking about the sandwich place?"
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "No. Sadly, I don't think we are."
     },
     {
-      "name": "",
-      "line": "Okay."
+      "name": "Liz",
+      "line": "Okay. I admit it. Dennis isn't a sandwich I want to eat every day for the rest of my life."
     },
     {
-      "name": "",
-      "line": "I admit it."
+      "name": "Liz",
+      "line": "I'm clueless about men. I'm clueless about everything that isn't this show. Maybe you can tell me how to live, because, sadly, you may be the most stable person I know right now."
     },
     {
-      "name": "",
-      "line": "Dennis isn't a sandwich I want to eat"
+      "name": "Jack",
+      "line": "Gentlemen, we'll have to continue this conference some other time."
     },
     {
-      "name": "",
-      "line": "every day for the rest of my life."
-    },
-    {
-      "name": "",
-      "line": "I'm clueless about men."
-    },
-    {
-      "name": "",
-      "line": "I'm clueless about everything that isn't this show."
-    },
-    {
-      "name": "",
-      "line": "Maybe you can tell me how to live,"
-    },
-    {
-      "name": "",
-      "line": "because, sadly, you may be"
-    },
-    {
-      "name": "",
-      "line": "the most stable person I know right now."
-    },
-    {
-      "name": "",
-      "line": "Gentlemen, we'll have to continue this conference"
-    },
-    {
-      "name": "",
-      "line": "some other time."
-    },
-    {
-      "name": "",
+      "name": "Jorgensen",
       "line": "That's her again, isn't it?"
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "Hi, Howard."
     },
     {
-      "name": "",
-      "line": "Lemon, today is the first day of the rest of your life."
+      "name": "Jack",
+      "line": "Lemon, today is the first day of the rest of your life. And what is the first thing you need to do?"
     },
     {
-      "name": "",
-      "line": "And what is the first thing you need to do?"
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "I have to break up with Dennis."
     },
     {
-      "name": "",
+      "name": "Jack",
       "line": "And why is that?"
     },
     {
-      "name": "",
-      "line": "Because he wears shirts with the Looney Tunes"
+      "name": "Liz",
+      "line": "Because he wears shirts with the Looney Tunes embroidered on them. Because he cuts his own hair. Because that one little nice thing that he does doesn't make up for the fact that I don't want to be seen with him in public."
     },
     {
-      "name": "",
-      "line": "embroidered on them."
-    },
-    {
-      "name": "",
-      "line": "Because he cuts his own hair."
-    },
-    {
-      "name": "",
-      "line": "Because that one little nice thing that he does"
-    },
-    {
-      "name": "",
-      "line": "doesn't make up for the fact"
-    },
-    {
-      "name": "",
-      "line": "that I don't want to be seen with him in public."
-    },
-    {
-      "name": "",
+      "name": "Jack",
       "line": "And if you don't break up with him now?"
     },
     {
-      "name": "",
-      "line": "He'll just keeping showing up at work to sell beepers."
+      "name": "Liz",
+      "line": "He'll just keeping showing up at work to sell beepers. He'll just keep calling my mother to borrow money. We'll just get more and more tangled up in each other's lives until I just can't even get away and we're just like..."
     },
     {
-      "name": "",
-      "line": "He'll just keep calling my mother to borrow money."
-    },
-    {
-      "name": "",
-      "line": "We'll just get more and more tangled up in each other's lives"
-    },
-    {
-      "name": "",
-      "line": "until I just can't even get away and we're just like..."
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "Oh, my God."
     },
     {
-      "name": "",
-      "line": "That's right. He's the rat king."
+      "name": "Jack",
+      "line": "That's right. He's the rat king. And there's only one way to break up with a rat. You have to cut him off completely."
     },
     {
-      "name": "",
-      "line": "And there's only one way to break up with a rat."
-    },
-    {
-      "name": "",
-      "line": "You have to cut him off completely."
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "I know."
     },
     {
-      "name": "",
-      "line": "You have to stuff your heart with steel wool and tinfoil."
+      "name": "Jack",
+      "line": "You have to stuff your heart with steel wool and tinfoil. You must be ruthless. You must be absolute."
     },
     {
-      "name": "",
-      "line": "You must be ruthless. You must be absolute."
+      "name": "Jack",
+      "line": "Remember always, you are the exterminator. Say it."
     },
     {
-      "name": "",
-      "line": "Remember always, you are the exterminator."
+      "name": "Liz",
+      "line": "I am the exterminator."
     },
     {
-      "name": "",
-      "line": "Say it. I am the exterminator."
+      "name": "Jack",
+      "line": "Say it like you mean it."
     },
     {
-      "name": "",
-      "line": "Say it like you mean it. I am the exterminator."
+      "name": "Liz",
+      "line": "I am the exterminator."
     },
     {
-      "name": "",
-      "line": "Louder! I am the exterminator!"
+      "name": "Jack",
+      "line": "Louder!"
     },
     {
-      "name": "",
-      "line": "Okay. Not that loud."
+      "name": "Liz",
+      "line": "I am the exterminator!"
     },
     {
-      "name": "",
-      "line": "People are trying to work around here, okay? Okay."
+      "name": "Jack",
+      "line": "Okay. Not that loud. People are trying to work around here, okay? Okay."
     },
     {
-      "name": "",
+      "name": "PA",
       "line": "30 minutes to dress rehearsal, everybody."
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "Tracy, they need you in wardrobe."
     },
     {
-      "name": "",
+      "name": "PA",
       "line": "That's 30 minutes to dress."
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "Why is part of your face still on the pillow?"
     },
     {
-      "name": "",
+      "name": "Tracy",
       "line": "Damn it. Where's my Sharpie?"
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "Oh, it is fake."
     },
     {
-      "name": "",
-      "line": "Look, I'm crazy, not stupid."
+      "name": "Tracy",
+      "line": "Look, I'm crazy, not stupid. A movie star can't have a big old permanent face tattoo."
     },
     {
-      "name": "",
-      "line": "A movie star can't have a big old permanent face tattoo."
+      "name": "Tracy",
+      "line": "I just need to walk around with this for a week, get my picture on the interweb, show the world I'm still dangerous!"
     },
     {
-      "name": "",
-      "line": "I just need to walk around with this for a week,"
+      "name": "Liz",
+      "line": "What about next week, when you don't have it anymore? You're gonna look like..."
     },
     {
-      "name": "",
-      "line": "get my picture on the interweb,"
+      "name": "Tracy",
+      "line": "I had extreme plastic surgery to have it removed. Baboom! There's another \"not normal.\""
     },
     {
-      "name": "",
-      "line": "show the world I'm still dangerous!"
-    },
-    {
-      "name": "",
-      "line": "What about next week, when you don't have it anymore?"
-    },
-    {
-      "name": "",
-      "line": "You're gonna look like..."
-    },
-    {
-      "name": "",
-      "line": "I had extreme plastic surgery to have it removed."
-    },
-    {
-      "name": "",
-      "line": "Baboom! There's another \"not normal.\""
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "You know this is very, very, very bad for me, right?"
     },
     {
-      "name": "",
-      "line": "I need to protect my reputation."
+      "name": "Tracy",
+      "line": "I need to protect my reputation. You take away my street cred, and I am Wayne Brady."
     },
     {
-      "name": "",
-      "line": "You take away my street cred, and I am Wayne Brady."
+      "name": "Liz",
+      "line": "Nuh-uh. Wayne Brady has three Emmys. You have a People's Choice Award that you stole from Wayne Brady."
     },
     {
-      "name": "",
-      "line": "Nuh-uh. Wayne Brady has three Emmys."
+      "name": "Tracy",
+      "line": "I shouldn't expect a white woman from Whiteville to understand street cred."
     },
     {
-      "name": "",
-      "line": "You have a People's Choice Award"
+      "name": "Liz",
+      "line": "First of all, I'm not from Whiteville. I'm from White Haven. And it's not as nice as it sounds."
     },
     {
-      "name": "",
-      "line": "that you stole from Wayne Brady."
+      "name": "Liz",
+      "line": "Fine. You can keep the tattoo. For this week only!"
     },
     {
-      "name": "",
-      "line": "I shouldn't expect a white woman from Whiteville"
-    },
-    {
-      "name": "",
-      "line": "to understand street cred."
-    },
-    {
-      "name": "",
-      "line": "First of all, I'm not from Whiteville."
-    },
-    {
-      "name": "",
-      "line": "I'm from White Haven."
-    },
-    {
-      "name": "",
-      "line": "And it's not as nice as it sounds."
-    },
-    {
-      "name": "",
-      "line": "Fine. You can keep the tattoo."
-    },
-    {
-      "name": "",
-      "line": "For this week only!"
-    },
-    {
-      "name": "",
+      "name": "Man",
       "line": "Okay. Here we go."
     },
     {
-      "name": "",
-      "line": "MAN #2: Quiet, please!"
+      "name": "Director",
+      "line": "Quiet, please!"
     },
     {
-      "name": "",
+      "name": "Man",
       "line": "Rehearsing."
     },
     {
-      "name": "",
+      "name": "Voice Over",
       "line": "And now a word from the White House."
     },
     {
-      "name": "",
+      "name": "Jenna",
       "line": "Good evening. I'm Laura Bush."
     },
     {
-      "name": "",
+      "name": "Tracy",
       "line": "And I'm Condoleezza Rice."
     },
     {
-      "name": "",
+      "name": "Pete",
       "line": "Well, we had a good run."
     },
     {
-      "name": "",
+      "name": "Jack",
       "line": "What the hell happened here?"
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "The cast had a rough week."
     },
     {
-      "name": "",
-      "line": "These people cannot be on television."
+      "name": "Jack",
+      "line": "These people cannot be on television. What is your contingency plan for a crap storm of this magnitude?"
     },
     {
-      "name": "",
-      "line": "What is your contingency plan"
-    },
-    {
-      "name": "",
-      "line": "for a crap storm of this magnitude?"
-    },
-    {
-      "name": "",
+      "name": "Liz",
       "line": "There is none."
     },
     {
-      "name": "",
+      "name": "Pete",
       "line": "We go live in a half an hour."
     },
     {
-      "name": "",
-      "line": "No wonder your career is being held back"
+      "name": "Jack",
+      "line": "No wonder your career is being held back by a lack of foresight and an addiction to dysfunctional relationships. You have no exit strategies."
     },
     {
-      "name": "",
-      "line": "by a lack of foresight"
-    },
-    {
-      "name": "",
-      "line": "and an addiction to dysfunctional relationships."
-    },
-    {
-      "name": "",
-      "line": "You have no exit strategies."
-    },
-    {
-      "name": "",
-      "line": "George has wandered off and is missing."
-    },
-    {
-      "name": "",
-      "line": "He is a male Caucasian..."
-    },
-    {
-      "name": "",
+      "name": "Pete",
       "line": "He knows about my marriage."
     },
     {
-      "name": "",
+      "name": "Liz",
       "line": "No. This is gonna be a bad show."
     },
     {
