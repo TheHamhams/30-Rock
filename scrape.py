@@ -4,12 +4,12 @@ import requests
 import re
 import json
 
-file_name = '01x07'
+file_name = '01x08'
 season = 1
 episode = 7
-title = 'Tracy Does Conan'
+title = 'The Breakup'
 
-html_text = requests.get('https://transcripts.foreverdreaming.org/viewtopic.php?f=1083&t=46645').text
+html_text = requests.get('https://transcripts.foreverdreaming.org/viewtopic.php?f=1083&t=46646').text
 soup = BeautifulSoup(html_text, 'lxml')
 
 chunks = soup.find('div', attrs={'class': 'postbody'})
@@ -35,7 +35,7 @@ dict = {
    
 json_string = json.dumps(dict, indent=2)
 json_string = re.sub('\"\[', '"', json_string)
-json_string = re.sub('\]\"', '"', json_string)
+json_string = re.sub('</p>\]\"', '"', json_string)
 json_string = re.sub('', '', json_string)
 
 with open(f'episodes/30_rock_{file_name}.json', 'w') as data:
