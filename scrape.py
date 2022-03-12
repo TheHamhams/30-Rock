@@ -4,12 +4,12 @@ import requests
 import re
 import json
 
-file_name = '01x09'
+file_name = '01x010'
 season = 1
-episode = 7
-title = 'The Baby Show'
+episode = 10
+title = 'The Rural Juror'
 
-html_text = requests.get('https://transcripts.foreverdreaming.org/viewtopic.php?f=1083&t=46647').text
+html_text = requests.get('https://transcripts.foreverdreaming.org/viewtopic.php?f=1083&t=46648').text
 soup = BeautifulSoup(html_text, 'lxml')
 
 chunks = soup.find('div', attrs={'class': 'postbody'})
