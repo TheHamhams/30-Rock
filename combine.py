@@ -16,14 +16,6 @@ for root, dirs, files in os.walk(directory):
       
 df = pd.DataFrame(columns=column_names)
 
-#for f in file_arr:
-##    with open(f, 'r') as infile:
-#        json_arr.extend(json.load(infile))
-
-#with open('all_scripts.json', 'w') as output_file:
-#    json.dump(json_arr, output_file)
-
-#merge_JsonFiles(files)
 
 
 for file in file_arr:
@@ -37,7 +29,7 @@ for file in file_arr:
                 temp.append(v)   
             
             dict = [data['season'], data['episode'], data['title'], temp[0], temp[1]]
-            #print(dict)
+            
             df.loc[len(df)] = (dict)   
     
 df.to_csv('all_scripts.csv')
